@@ -1,0 +1,22 @@
+---
+- name: Sara Mostafavi
+  role: Principal investigator
+  photo: "http://www.stat.ubc.ca/~saram/saram_files/droppedImage.jpg"
+
+- name: Erasmo Hansen
+  role: PhD candidate
+  photo: "/images/blank.png"
+  
+- name: Corrinne Vansickle
+  role: PhD student
+  photo: "/images/blank.png"
+  
+- name: Flor Haliburton
+  role: Postdoc
+  photo: "/images/blank.png"
+- name: Asa Kamaka
+  role:
+  photo: "/images/blank.png"
+- name: Arica Stegner
+  role: MSc student
+  photo: "/images/blank.png"
