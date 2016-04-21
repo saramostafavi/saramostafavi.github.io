@@ -62,3 +62,19 @@ footer .social-media-list li {
     height: 200px;
     width: 200px;
 }
+
+img.pub-image {
+    float: right;
+}
+
+.pub {
+    padding-top: 20px;
+}
+
+h2.pub-title {
+    margin-top: 0;
+}
+
+p.pub-abstract {
+    font-style: italic;
+}

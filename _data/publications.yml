@@ -1,0 +1,49 @@
+---
+- title: >
+    Variation and Genetic Control of Gene Expression in Primary Immunocytes across Inbred Mouse Strains
+  author: >
+    Mostafavi S, Ortiz-Lopez A, Bogue MA, Hattori K, Pop C, Koller D, Mathis D, Benoist C;
+    The Immunological Genome Consortium, Blair DA, Dustin ML, Shinton SA, Hardy RR, Shay T,
+    Regev A, Cohen N, Brennan P, Brenner M, Kim F, Rao TN, Wagers A, Heng T, Ericson J,
+    Rothamel K, Ortiz-Lopez A, Mathis D, Benoist C, Kreslavsky T, Fletcher A, Elpek K,
+    Bellemare-Pelletier A, Malhotra D, Turley S, Miller J, Brown B, Merad M, Gautier EL,
+    Jakubzick C, Randolph GJ, Monach P, Best AJ, Knell J, Goldrath A, Jojic V, Koller D,
+    Laidlaw D, Collins J, Gazit R, Rossi DJ, Malhotra N, Sylvia K, Kang J5, Bezman NA,
+    Sun JC, Min-Oo G, Kim CC, Lanier LL.
+  where: "J Immunol. 2014 Nov 1;193(9):4485-96."
+  image:
+    src: http://cbdm.hms.harvard.edu/assets/Publications/2014pub/SaraMIcon.png
+    url: http://cbdm.hms.harvard.edu/assets/Publications/2014pub/J%20Immunol-2014-Mostafavi.pdf
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/25267973
+
+- title: >
+    Polarization of the Effects of Autoimmune and Neurodegenerative Risk Alleles in Leukocytes
+  author: >
+    Raj T, Rothamel K, Mostafavi S, Ye C, Lee MN, Replogle JM, Feng T, Lee M, Asinovski N,
+    Frohlich I, Imboywa S, Von Korff A, Okada Y, Patsopoulos NA, Davis S, McCabe C, Paik HI,
+    Srivastava GP, Raychaudhuri S, Hafler DA, Koller D, Regev A, Hacohen N, Mathis D, Benoist C,
+    Stranger BE, De Jager PL.
+  where: "Science. 2014 May 2;344(6183):519-523."
+  image: http://cbdm.hms.harvard.edu/assets/Publications/2014pub/ScienceIcon.png
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/24786080
+  abstract: >
+    To extend our understanding of the genetic basis of human immune
+    function and dysfunction, we performed an expression quantitative
+    trait locus (eQTL) study of purified CD4(+) T cells and monocytes,
+    representing adaptive and innate immunity, in a multi-ethnic
+    cohort of 461 healthy individuals. Context-specific cis- and
+    trans-eQTLs were identified, and cross-population mapping allowed,
+    in some cases, putative functional assignment of candidate causal
+    regulatory variants for disease-associated loci. We note an
+    over-representation of T cell-specific eQTLs among susceptibility
+    alleles for autoimmune diseases and of monocyte-specific eQTLs
+    among Alzheimer's and Parkinson's disease variants. This
+    polarization implicates specific immune cell types in these
+    diseases and points to the need to identify the cell-autonomous
+    effects of disease susceptibility variants.
+    
+  
