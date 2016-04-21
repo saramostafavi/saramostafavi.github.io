@@ -78,3 +78,7 @@ h2.pub-title {
 p.pub-abstract {
     font-style: italic;
 }
+
+.pagination {
+    text-align: center;
+}
