@@ -2,6 +2,9 @@
 layout: post
 title:  How to add a floating picture as an alternative to page frontmatter
 date:   2016-04-21
+excerpt: >
+  Wherein I deconstruct a <em>multitude</em> of ways to use an illustrative
+  image in your news items. Read on for details...
 ---
 
 There are two ways to add a picture to the news item:
