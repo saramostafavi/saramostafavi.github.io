@@ -12,7 +12,7 @@ body {
    height: 100%;
    background-size: cover;
    background: rgb(200, 54, 54);  
-   background: rgba(200, 54, 54, 0.8); 
+   background: rgba(200, 54, 54, 0.1); 
 }
 
 
