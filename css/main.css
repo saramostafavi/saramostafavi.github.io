@@ -6,17 +6,22 @@ body {
     margin-bottom: 0;
 }
 
+.jumbotron {
+   background: #000 url("../images/IFN_1.png");
+   background: rgba(200, 54, 54, 0.5);
+   width: 100%;
+   height: 100%;
+   background-size: cover;
+   background: rgb(200, 54, 54); /* This is for ie8 and below */
+   background: rgba(200, 54, 54, 0.5); 
+}
+
 .jumbotron h1 {
   /*background-image: url("02.jpg");*/
   color: #fff;
   font-size: 40px;  
   font-family: 'Shift', sans-serif;
   /*font-weight: bold;*/
-  background: #000 url("../images/IFN_1.png");
-  background: rgba(200, 54, 54, 0.5);
-  width: 100%;
-  height: 100%;
-  background-size: cover;
 }
 
 h1, h2,h3 {
