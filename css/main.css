@@ -16,7 +16,7 @@ body {
 }
 
 .jumbotron .bg {
-   opacity: 0.10;
+   opacity: 0.90;
    /*background-color: orange;*/
    position: absolute;
    width: 100%;
