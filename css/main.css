@@ -15,31 +15,6 @@ body {
    /*background: rgba(200, 54, 54, 0.6); */
 }
 
-.jumbotrons{
-
-   height:400px;
-
-}
-
-.jumbotrons-image-background{
-
-   background-image: url(‘../imagesc/IFN_1.png’);
-
-   background-attachment:fixed;
-
-   background-position:50% 50%;
-
-   background-size:cover;
-
-}
-
-
-#backgroundcolor{
-
-   background-color:rgba(255,255,255,0.5); 
-
-}
-
 
 .jumbotron h1 {
   /*background-image: url("02.jpg");*/
