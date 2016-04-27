@@ -2,14 +2,14 @@
 layout: page
 ---
 
-<h2 class="news">News</h2>
+<h3 class="news">News</h3>
 
 {% for post in paginator.posts %}
 
 <div class="item">
-    <h2>
+    <h4>
         <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-    </h2>
+    </h4>
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
     <div class="content">
