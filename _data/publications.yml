@@ -4,8 +4,7 @@
   author: >
     Mostafavi S, Ortiz-Lopez A, Bogue MA, ... Mathis D, Benoist C, and the ImmGen Consortium.
   where: "J Immunol. 2014 Nov 1;193(9):4485-96."
-  image:
-    src: http://cbdm.hms.harvard.edu/assets/Publications/2014pub/SaraMIcon.png
+  image: http://cbdm.hms.harvard.edu/assets/Publications/2014pub/SaraMIcon.png
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/25267973
