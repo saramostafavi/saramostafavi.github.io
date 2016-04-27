@@ -2,18 +2,10 @@
 - title: >
     Variation and Genetic Control of Gene Expression in Primary Immunocytes across Inbred Mouse Strains
   author: >
-    Mostafavi S, Ortiz-Lopez A, Bogue MA, Hattori K, Pop C, Koller D, Mathis D, Benoist C;
-    The Immunological Genome Consortium, Blair DA, Dustin ML, Shinton SA, Hardy RR, Shay T,
-    Regev A, Cohen N, Brennan P, Brenner M, Kim F, Rao TN, Wagers A, Heng T, Ericson J,
-    Rothamel K, Ortiz-Lopez A, Mathis D, Benoist C, Kreslavsky T, Fletcher A, Elpek K,
-    Bellemare-Pelletier A, Malhotra D, Turley S, Miller J, Brown B, Merad M, Gautier EL,
-    Jakubzick C, Randolph GJ, Monach P, Best AJ, Knell J, Goldrath A, Jojic V, Koller D,
-    Laidlaw D, Collins J, Gazit R, Rossi DJ, Malhotra N, Sylvia K, Kang J5, Bezman NA,
-    Sun JC, Min-Oo G, Kim CC, Lanier LL.
+    Mostafavi S, Ortiz-Lopez A, Bogue MA, ... Mathis D, Benoist C, and the ImmGen Consortium.
   where: "J Immunol. 2014 Nov 1;193(9):4485-96."
   image:
     src: http://cbdm.hms.harvard.edu/assets/Publications/2014pub/SaraMIcon.png
-    url: http://cbdm.hms.harvard.edu/assets/Publications/2014pub/J%20Immunol-2014-Mostafavi.pdf
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/25267973
