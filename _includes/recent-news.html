@@ -1,8 +1,8 @@
-<h2 class="news">Recent News</h2>
+<h3 class="news">Recent News</h3>
 
 {% for post in site.posts limit: 3 %}
-<h3>
+<h4>
     <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-</h3>
+</h4>
 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 {% endfor %}
