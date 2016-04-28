@@ -74,6 +74,13 @@ footer .social-media-list li {
 .person .person-role {
     text-align: center;
 }
+.person .person-program {
+    text-align: center;
+}
+.person .person-email {
+    text-align: center;
+}
+
 
 .person-photo {
     margin: 20px auto;
