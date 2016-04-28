@@ -3,20 +3,28 @@
   role: Principal investigator
   photo: "images/saram.png"
 
-- name: Erasmo Hansen
-  role: PhD candidate
+- name: Bernard Ng
+  role: Postdoctoral Fellow
   photo: "/images/blank.png"
   
-- name: Corrinne Vansickle
-  role: PhD student
+- name: Louie Dinh
+  role: MSc student (Computer Science - co-advisor: Raymond Ng)
   photo: "/images/blank.png"
   
-- name: Flor Haliburton
-  role: Postdoc
+- name: Farnush Kiadeh
+  role: MSc student (Bioinformatics)
   photo: "/images/blank.png"
-- name: Asa Kamaka
-  role:
+
+- name: Halldor Thorhallsson
+  role: MSc student (Computer Science - co-adisor: Raymond Ng)
   photo: "/images/blank.png"
-- name: Arica Stegner
-  role: MSc student
+  
+
+- name: Emma Graham
+  role: MSc student (Bioinformatics)
   photo: "/images/blank.png"
+  
+- name: Leila Methnani
+  role: Undergraduate student (Computer Science)
+  photo: "/images/blank.png"
+
