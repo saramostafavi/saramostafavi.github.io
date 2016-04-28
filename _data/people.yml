@@ -7,9 +7,12 @@
   role: Postdoctoral Fellow
   photo: "/images/blank.png"
   
+  
 - name: Evan Gatev
   role: PhD Student (Bioinformatics - co-advisor Michael Kobor)
   photo: "/images/blank.png"
+  email: lkj@klj.com
+  program: Bioinformatics (co-advised by Michael Kobor)
   
 - name: Louie Dinh
   role: MSc student (Computer Science - co-advisor Raymond Ng)
