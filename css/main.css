@@ -84,6 +84,7 @@ footer .social-media-list li {
 
 img.pub-image {
     float: right;
+    margin: 0 0 10px 10px;
 }
 
 .pub {
