@@ -9,10 +9,18 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+26824662
 
 - title: >
+    Sharing and Specificity of Co-expression Networks across 35 Human Tissues
+  author: >
+    Pierson E, the GTEx Consortium, Koller D, Battle AJ*, Mostafavi S*. PLOS Computational Biology, 2015.
+  image:../images/plos_comp_bio_fig.png
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/25970446
+
+- title: >
     Polarization of the Effects of Autoimmune and Neurodegenerative Risk Alleles in Leukocytes
   author: >
-    Raj T, Rothamel K, Mostafavi S,..., Benoist C*, Stranger BE*, De Jager PL*.
-  where: "Science. 2014 May 2;344(6183):519-523."
+    Raj T, Rothamel K, Mostafavi S,..., Benoist C*, Stranger BE*, De Jager PL*. Science 2014.
   image: http://cbdm.hms.harvard.edu/assets/Publications/2014pub/ScienceIcon.png
   repo:
     name: PubMed
