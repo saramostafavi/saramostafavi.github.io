@@ -35,10 +35,9 @@
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/24786080
     
-
 - title: >
     Type I interferon signaling genes in recurrent major depression: increased expression detected by whole-blood RNA sequencing
- author: >
+  author: >
     Mostafavi S, Battle A, Zhu X,..., Levinson D. Genome Research 2014.
   image: ../images/ifna_figure_1.pdf
   repo:
