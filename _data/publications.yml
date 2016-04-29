@@ -30,7 +30,7 @@
     Characterizing the genetic basis of transcriptome diversity through RNA-sequencing of 922 individuals
   author: >
     Battle A, Mostafavi S, Zhu X,..., Koller D. Genome Research 2014.
-  image: ../imagesc/plos_comp_bio_fig.png
+  image: ../images/GRpaper.png
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/24786080
