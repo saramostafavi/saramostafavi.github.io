@@ -15,6 +15,9 @@ body {
    /*background: rgba(200, 54, 54, 0.6); */
 }
 
+.home p {
+  text-align: justify
+}
 
 .jumbotron h1 {
   /*background-image: url("02.jpg");*/
