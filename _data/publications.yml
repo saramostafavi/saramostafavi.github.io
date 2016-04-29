@@ -12,7 +12,7 @@
     Sharing and Specificity of Co-expression Networks across 35 Human Tissues
   author: >
     Pierson E, the GTEx Consortium, Koller D, Battle AJ*, Mostafavi S*. PLOS Computational Biology, 2015.
-  image:../images/plos_comp_bio_fig.png
+  image: ../images/plos_comp_bio_fig.png
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/25970446
