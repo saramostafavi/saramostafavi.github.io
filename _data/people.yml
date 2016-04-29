@@ -8,30 +8,24 @@
   photo: "/images/blank.png"
   
   
-- name: Evan Gatev
-  role: PhD Student
-  photo: "/images/blank.png"
-  email: lkj@klj.com
-  program: Bioinformatics (co-advised by Michael Kobor)
-  
 - name: Louie Dinh
-  role: MSc student (Computer Science - co-advisor Raymond Ng)
+  role: MSc student
   photo: "/images/blank.png"
   
 - name: Farnush Kiadeh
-  role: MSc student (Bioinformatics)
+  role: MSc student
   photo: "/images/blank.png"
 
 - name: Halldor Thorhallsson
-  role: MSc student (Computer Science - co-adisor Raymond Ng)
+  role: MSc student
   photo: "/images/blank.png"
   
 
 - name: Emma Graham
-  role: MSc student (Bioinformatics)
+  role: MSc student 
   photo: "/images/blank.png"
   
 - name: Leila Methnani
-  role: Undergraduate student (Computer Science)
+  role: Undergraduate student 
   photo: "/images/blank.png"
 
