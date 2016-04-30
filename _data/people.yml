@@ -11,18 +11,15 @@
   
   
 - name: Louie Dinh
-  role: MSc Student
-  program: Computer Science
-  photo: "/images/Louie.jpg"
+  role: Computer Science MSc Student
+    photo: "/images/Louie.jpg"
   
 - name: Farnush Kiadeh
-  role: MSc Student
-  program: Bioinformatics
+  role: Bioinformatics MSc Student
   photo: "/images/Farnush.png"
 
 - name: Halldor Thorhallsson
-  role: MSc Student
-  program: Computer Science
+  role: Computer Science MSc Student
   photo: "/images/Halldor.jpeg"
   
   
