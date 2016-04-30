@@ -53,3 +53,11 @@
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3532359/
   
+- title: >
+    Fast integration of heterogeneous data sources for predicting gene function with limited annotation.
+  author: >
+    Mostafavi S and Morris Q. Bioinformatics 2010.
+  image: ../images/fig2.png
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/20507895
