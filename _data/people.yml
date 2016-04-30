@@ -25,14 +25,13 @@
   program: Computer Science
   photo: "/images/Halldor.jpeg"
   
-
-- name: Peter West
-  role: Undergradaute student 
-  program: Computer Science
-  photo: "/images/blank.png"
   
 - name: Leila Methnani
   role: Undergraduate student 
   program: Computer Science
   photo: "/images/Leila.png"
 
+- name: Peter West
+  role: Undergradaute student 
+  program: Computer Science
+  photo: "/images/blank.png"
