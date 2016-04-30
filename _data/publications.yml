@@ -17,6 +17,14 @@
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/25970446
 
+- title: >
+    Polarization of the effects of autoimmune and neurodegenerative risk alleles in leukocytes
+  author: >
+    Raj T, Rothamel K, Mostafavi S,..., Benoist C*, Stranger BE*, De Jager PL*. Science 2014.
+  image: ../images/immvar.png
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/24786080
 
 - title: >
     Characterizing the genetic basis of transcriptome diversity through RNA-sequencing of 922 individuals
