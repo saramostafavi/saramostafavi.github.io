@@ -1,6 +1,6 @@
 ---
 - name: Sara Mostafavi
-  role: Principal investigator
+  role: Principal Investigator
   program: PhD, Computer Science
   photo: "images/saram.png"
   
@@ -11,27 +11,27 @@
   
   
 - name: Louie Dinh
-  role: MSc student
+  role: MSc Student
   program: Computer Science
   photo: "/images/Louie.jpg"
   
 - name: Farnush Kiadeh
-  role: MSc student
+  role: MSc Student
   program: Bioinformatics
   photo: "/images/Farnush.png"
 
 - name: Halldor Thorhallsson
-  role: MSc student
+  role: MSc Student
   program: Computer Science
   photo: "/images/Halldor.jpeg"
   
   
 - name: Leila Methnani
-  role: Undergraduate student 
+  role: Undergraduate Student 
   program: Computer Science
   photo: "/images/Leila.png"
 
 - name: Peter West
-  role: Undergradaute student 
+  role: Undergradaute Student 
   program: Computer Science
   photo: "/images/blank.png"
