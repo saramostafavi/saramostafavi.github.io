@@ -39,7 +39,7 @@
     Normalizing RNA-sequencing data by modeling hidden covariates with prior knowledge
   author: >
     Mostafavi S, Battle A, Zhu X,..., Koller D. PLO ONE 2013.
-  image: ../images/normalizatin.png
+  image: ../images/normalization.png
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/23874524
