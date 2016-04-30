@@ -2,7 +2,7 @@
 - title: >
     Parsing the interferon transcriptional network and its disease associations
   author: >
-    Mostafavi S*, Yoshida H*, Moodley D, ..., Mathis D, Benoist C, and the ImmGen Consortium. Cell 2016.
+    <u>Mostafavi S*</u>, Yoshida H*, Moodley D, ..., Mathis D, Benoist C, and the ImmGen Consortium. Cell 2016.
   image: ../images/IFN_1.png
   repo:
     name: PubMed
@@ -11,7 +11,7 @@
 - title: >
     Sharing and Specificity of Co-expression Networks across 35 Human Tissues
   author: >
-    Pierson E, the GTEx Consortium, Koller D, Battle A*, Mostafavi S*. PLOS Computational Biology 2015.
+    Pierson E, the GTEx Consortium, Koller D, Battle A*, <u>Mostafavi S*</u>. PLOS Computational Biology 2015.
   image: ../images/plos_comp_bio_fig.png
   repo:
     name: PubMed
@@ -20,7 +20,7 @@
 - title: >
     Polarization of the effects of autoimmune and neurodegenerative risk alleles in leukocytes
   author: >
-    Raj T, Rothamel K, Mostafavi S,..., Benoist C*, Stranger BE*, De Jager PL*. Science 2014.
+    Raj T, Rothamel K, <u>Mostafavi S</u>,..., Benoist C*, Stranger BE*, De Jager PL*. Science 2014.
   image: ../images/immvar.png
   repo:
     name: PubMed
@@ -29,7 +29,7 @@
 - title: >
     Characterizing the genetic basis of transcriptome diversity through RNA-sequencing of 922 individuals
   author: >
-    Battle A, Mostafavi S, Zhu X,..., Koller D. Genome Research 2014.
+    Battle A, <u>Mostafavi S</u>, Zhu X,..., Koller D. Genome Research 2014.
   image: ../images/GRpaper.png
   repo:
     name: PubMed
@@ -38,7 +38,7 @@
 - title: >
     Normalizing RNA-sequencing data by modeling hidden covariates with prior knowledge
   author: >
-    Mostafavi S, Battle A, Zhu X,..., Koller D. PLO ONE 2013.
+    <u>Mostafavi S</u>, Battle A, Zhu X,..., Koller D. PLO ONE 2013.
   image: ../images/normalization.png
   repo:
     name: PubMed
@@ -47,7 +47,7 @@
 - title: >
     Using prior biological knowledge when constructing gene regulatory networks
   author: >
-    Mostafavi S, and Koller, D. ICML workshop on Machine Learning in Genomics and Genetics 2012.
+    <u>Mostafavi S</u>, and Koller, D. ICML workshop on Machine Learning in Genomics and Genetics 2012.
   image: ../images/roc_gbm_pred.png
   repo:
     name: PDF
@@ -56,7 +56,7 @@
 - title: >
     Labeling nodes using three degrees of propagation
   author: >
-    Mostafavi S, Goldenberg A, Morris Q. PLO ONE 2012.
+    <u>Mostafavi S</u>, Goldenberg A, Morris Q. PLO ONE 2012.
   image: ../images/Figure1.png
   repo:
     name: PubMed
@@ -65,7 +65,7 @@
 - title: >
    Predicting node characteristics from molecular networks
   author: >
-    Mostafavi S, Goldenberg A, Morris Q. Methods in Molecular Biology 2011.
+    <u>Mostafavi S</u>, Goldenberg A, Morris Q. Methods in Molecular Biology 2011.
   image: ../images/lpa1.png
   repo:
     name: PubMed
@@ -74,7 +74,7 @@
 - title: >
     Fast integration of heterogeneous data sources for predicting gene function with limited annotation.
   author: >
-    Mostafavi S and Morris Q. Bioinformatics 2010.
+    <u>Mostafavi S</u> and Morris Q. Bioinformatics 2010.
   image: ../images/fig2.png
   repo:
     name: PubMed
