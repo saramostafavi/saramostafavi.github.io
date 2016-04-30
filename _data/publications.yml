@@ -1,12 +1,12 @@
 ---
 - title: >
-    Variation and Genetic Control of Gene Expression in Primary Immunocytes across Inbred Mouse Strains
+    Parsing the interferon transcriptional network and its disease associations
   author: >
     Mostafavi S*, Yoshida H*, Moodley D, ..., Mathis D, Benoist C, and the ImmGen Consortium. Cell. 2016.
   image: ../images/IFN_1.png
   repo:
     name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+26824662
+    url: http://www.ncbi.nlm.nih.gov/pubmed/26824662
 
 - title: >
     Sharing and Specificity of Co-expression Networks across 35 Human Tissues
@@ -15,7 +15,7 @@
   image: ../images/plos_comp_bio_fig.png
   repo:
     name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/24092820
+    url: http://www.ncbi.nlm.nih.gov/pubmed/25970446
 
 - title: >
     Polarization of the Effects of Autoimmune and Neurodegenerative Risk Alleles in Leukocytes
@@ -33,15 +33,15 @@
   image: ../images/GRpaper.png
   repo:
     name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/24786080
+    url: http://www.ncbi.nlm.nih.gov/pubmed/24092820
     
 - title: >
-    Type I interferon signaling genes in recurrent major depression: increased expression detected by whole-blood RNA sequencing
+    Normalizing RNA-sequencing data by modeling hidden covariates with prior knowledge
   author: >
-    Mostafavi S, Battle A, Zhu X,..., Levinson D. Molecular Psychiatry 2014.
-  image: ../images/ifna_figure_1.pdf
+    Mostafavi S, Battle A, Zhu X,..., Koller D. PLO ONE 2013.
+  image: ../images/normalizatin.png
   repo:
     name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/24786080
+    url: http://www.ncbi.nlm.nih.gov/pubmed/23874524
     
   
