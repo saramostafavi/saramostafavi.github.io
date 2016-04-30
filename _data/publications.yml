@@ -48,7 +48,7 @@
     Labeling nodes using three degrees of propagation
   author: >
     Mostafavi S, Goldenberg A, Morris Q. PLO ONE 2012.
-  image: ../images/Figure1.tif
+  image: ../images/Figure1.png
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3532359/
