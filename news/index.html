@@ -7,9 +7,9 @@ layout: page
 {% for post in paginator.posts %}
 
 <div class="item">
-    <h4>
+    <p>
         <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-    </h4>
+    </p>
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
     <div class="content">
