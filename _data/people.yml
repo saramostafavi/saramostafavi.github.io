@@ -11,15 +11,20 @@
   
   
 - name: Louie Dinh
-  role: Computer Science MSc Student
-    photo: "/images/Louie.jpg"
+  role: MSc Student
+  program: Computer Science
+  program: co-advised with Raymond Ng
+  photo: "/images/Louie.jpg"
   
 - name: Farnush Kiadeh
-  role: Bioinformatics MSc Student
+  role: MSc Student
+  program: Bioinformatics
   photo: "/images/Farnush.png"
 
 - name: Halldor Thorhallsson
-  role: Computer Science MSc Student
+  role: MSc Student
+  program: Computer Science
+  program: co-advised with Raymond Ng
   photo: "/images/Halldor.jpeg"
   
   
