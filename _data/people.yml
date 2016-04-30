@@ -10,22 +10,27 @@
   
 - name: Louie Dinh
   role: MSc student
+  program: Computer Science
   photo: "/images/Louie.jpg"
   
 - name: Farnush Kiadeh
   role: MSc student
+  program: Bioinformatics
   photo: "/images/Farnush.png"
 
 - name: Halldor Thorhallsson
   role: MSc student
+  program: Computer Science
   photo: "/images/Halldor.jpeg"
   
 
 - name: Peter West
   role: Undergradaute student 
+  program: Computer Science
   photo: "/images/blank.png"
   
 - name: Leila Methnani
   role: Undergraduate student 
+  program: Computer Science
   photo: "/images/blank.png"
 
