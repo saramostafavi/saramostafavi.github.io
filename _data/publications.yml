@@ -45,6 +45,15 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/23874524
 
 - title: >
+    Type I interferon signaling genes in recurrent major depression: increased expression detected by whole-blood RNA sequencing
+  author: >
+    <u>Mostafavi S</u>, Battle A, Zhu X,..., Levinson DF. Molecular Psychiatry 2013.
+  image: ../images/ifna_figure_1.png
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/242969772
+
+- title: >
     Using prior biological knowledge when constructing gene regulatory networks
   author: >
     <u>Mostafavi S</u>, and Koller, D. ICML workshop on Machine Learning in Genomics and Genetics 2012.
