@@ -1,18 +1,15 @@
 ---
 - name: Sara Mostafavi
   role: Principal Investigator
-  program: PhD, Computer Science
   photo: "images/saram.png"
   
 - name: Bernard Ng
   role: Postdoctoral Fellow
-  program: PhD, Electrical Engineering
   photo: "/images/Bernard.jpg"
   
   
 - name: Louie Dinh
   role: MSc Student
-  program: Computer Science
   other: co-advised by Raymond Ng
   photo: "/images/Louie.jpg"
   
@@ -23,17 +20,14 @@
 
 - name: Halldor Thorhallsson
   role: MSc Student
-  program: Computer Science
   other: co-advised by Raymond Ng
   photo: "/images/Halldor.jpeg"
   
   
 - name: Leila Methnani
   role: Undergraduate Student 
-  program: Computer Science
   photo: "/images/Leila.png"
 
 - name: Peter West
   role: Undergradaute Student 
-  program: Computer Science
   photo: "/images/peter.jpg"
