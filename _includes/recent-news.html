@@ -1,7 +1,6 @@
 <p class="news">Recent News</p>
 
 {% for post in site.posts limit: 3 %}
-<p> <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> 
-    <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-</p>
+<p> <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> </p>
+<p>    <a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}
