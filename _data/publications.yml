@@ -2,7 +2,7 @@
 - title: >
     Parsing the interferon transcriptional network and its disease associations
   author: >
-    Mostafavi S*, Yoshida H*, Moodley D, ..., Mathis D, Benoist C, and the ImmGen Consortium. Cell. 2016.
+    Mostafavi S*, Yoshida H*, Moodley D, ..., Mathis D, Benoist C, and the ImmGen Consortium. Cell 2016.
   image: ../images/IFN_1.png
   repo:
     name: PubMed
@@ -11,7 +11,7 @@
 - title: >
     Sharing and Specificity of Co-expression Networks across 35 Human Tissues
   author: >
-    Pierson E, the GTEx Consortium, Koller D, Battle A*, Mostafavi S*. PLOS Computational Biology, 2015.
+    Pierson E, the GTEx Consortium, Koller D, Battle A*, Mostafavi S*. PLOS Computational Biology 2015.
   image: ../images/plos_comp_bio_fig.png
   repo:
     name: PubMed
@@ -36,14 +36,6 @@
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/23874524
     
-- title: >
-    Using prior biological knowledge when constructing gene regulatory networks
-  author: >
-    Mostafavi S, and Koller, D. ICML workshop on Machine Learning in Genomics and Genetics 2012.
-  image: ../images/roc_gbm_pred.png
-  repo:
-    name: PDF
-    url: http://ai.stanford.edu/~saram/MLGG2012.pdf
     
 - title: >
     Labeling nodes using three degrees of propagation
