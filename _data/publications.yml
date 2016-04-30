@@ -35,7 +35,15 @@
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/23874524
-    
+
+- title: >
+    Using prior biological knowledge when constructing gene regulatory networks
+  author: >
+    Mostafavi S, and Koller, D. ICML workshop on Machine Learning in Genomics and Genetics 2012.
+  image: ../images/roc_gbm_pred.png
+  repo:
+    name: PDF
+    url: http://ai.stanford.edu/~saram/MLGG2012.pdf
     
 - title: >
     Labeling nodes using three degrees of propagation
@@ -46,14 +54,6 @@
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3532359/
   
- - title: >
-   Predicting node characteristics from molecular networks
-  author: >
-    Mostafavi S, Goldenberg A, Morris Q. Methods in Molecular Biology 2011.
-  image: ../images/lpa1.png
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/21877293
   
 - title: >
     Fast integration of heterogeneous data sources for predicting gene function with limited annotation.
