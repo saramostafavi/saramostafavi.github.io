@@ -44,4 +44,12 @@
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/23874524
     
+- title: >
+    Labeling nodes using three degrees of propagation
+  author: >
+    Mostafavi S, Goldenberg A, Morris Q. PLO ONE 2012.
+  image: ../images/all_weights_3prop.eps
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3532359/
   
