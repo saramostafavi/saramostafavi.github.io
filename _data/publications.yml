@@ -17,14 +17,6 @@
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/25970446
 
-- title: >
-    Polarization of the Effects of Autoimmune and Neurodegenerative Risk Alleles in Leukocytes
-  author: >
-    Raj T, Rothamel K, Mostafavi S,..., Benoist C*, Stranger BE*, De Jager PL*. Science 2014.
-  image: http://cbdm.hms.harvard.edu/assets/Publications/2014pub/ScienceIcon.png
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/24786080
 
 - title: >
     Characterizing the genetic basis of transcriptome diversity through RNA-sequencing of 922 individuals
@@ -43,6 +35,15 @@
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/23874524
+    
+- title: >
+    Using prior biological knowledge when constructing gene regulatory networks
+  author: >
+    Mostafavi S, and Koller, D. ICML workshop on Machine Learning in Genomics and Genetics 2012.
+  image: ../images/roc_gbm_pred.png
+  repo:
+    name: PDF
+    url: http://ai.stanford.edu/~saram/MLGG2012.pdf
     
 - title: >
     Labeling nodes using three degrees of propagation
