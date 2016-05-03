@@ -88,5 +88,13 @@
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/20507895
-    
+
+- title: >
+    Using the Gene Ontology Hierarchy when Predicting Gene Function.
+  author: >
+    <u>Mostafavi S</u> and Morris Q. Uncertainty in Artificial Intelligence (UAI) 2009.
+  image: ../images/hierarchy_uai.png
+  repo:
+    name: PDF
+    url: http://arxiv.org/abs/1205.2622
 
