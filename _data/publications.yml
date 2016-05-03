@@ -90,7 +90,7 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/20507895
 
 - title: >
-    Using the Gene Ontology Hierarchy when Predicting Gene Function.
+    Using the Gene Ontology hierarchy when predicting gene function
   author: >
     <u>Mostafavi S</u> and Morris Q. Uncertainty in Artificial Intelligence (UAI) 2009.
   image: ../images/hierarchy_uai.png
