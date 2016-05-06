@@ -98,3 +98,11 @@
     name: PDF
     url: http://arxiv.org/abs/1205.2622
 
+- title: >
+    GeneMANIA: a real-time multiple association network integration algorithm for predicting gene function
+  author: >
+    <u>Mostafavi S</u>, Ray D, Warde-Farley D, Grouios C, Morris Q. Genome Biology 2008.
+  image: ../images/genemania.jpg
+  repo:
+    name: PDF
+    url: http://arxiv.org/abs/1205.2622
