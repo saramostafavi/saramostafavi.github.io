@@ -9,25 +9,28 @@
   
   
 - name: Louie Dinh
-  role: MSc Student
+  role: MSc Student - Comp Sci
   program: co-advised by Raymond Ng
   photo: "/images/Louie.jpg"
   
 - name: Farnush Kiadeh
-  role: MSc Student
-  program: Bioinformatics
+  role: MSc Student - Bioinformatics
   photo: "/images/Farnush.png"
 
 - name: Halldor Thorhallsson
-  role: MSc Student
+  role: MSc Student - Comp Sci
   program: co-advised by Raymond Ng
   photo: "/images/Halldor.jpeg"
   
   
 - name: Leila Methnani
-  role: Undergraduate Student 
+  role: Undergraduate Student - Comp Sci
   photo: "/images/Leila.png"
 
 - name: Peter West
-  role: Undergradaute Student 
+  role: Undergradaute Student - Comp Sci
   photo: "/images/peter.jpg"
+
+- name: Linda Liu
+  role: Undergradaute Student - Stats & CS
+  photo: "/images/linda.jpg"
