@@ -1,5 +1,33 @@
 ---
 - title: >
+    Genetic variants in Alzheimer disease - molecular and brain network approaches
+  author: >
+    Gaiteri C,<u> Mostafavi S</u>, Honey CJ, De Jager PL, Bennett DA. Nature Review Neurology 2016.
+  image: ../images/NNR.png
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/27197214
+
+- title: >
+    Inhalation of diesel exhaust and allergen alters human bronchial epithelium DNA methylation
+  author: >
+    Clifford RL, Jones MJ, Maclsaac JL, McEwan LM, Goodman SJ,<u> Mostafavi S</u>, Kobor MS, Carlsten C. Journal of Allergy & Clinical Immunology 2016.
+  image: ../images/NNR.png
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/27321436
+
+
+- title: >
+    Impact of the X Chromosome and sex on regulatory variation
+  author: >
+    Kukurba K, Parsna P, ..., <u> Mostafavi S</u>, Battle A*, Montgomery SB*. Genome Research 2016.
+  image: ../images/sexspec.png
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/27197214
+
+- title: >
     Parsing the interferon transcriptional network and its disease associations
   author: >
     <u>Mostafavi S*</u>, Yoshida H*, Moodley D, ..., Mathis D, Benoist C, and the ImmGen Consortium. Cell 2016.
