@@ -2,7 +2,7 @@
 - title: >
     Network pharmacology of Jak inhibitors
   author: >
-    Moodley D, Yoshida H,<u> Mostafavi S</u>, ..., Mathis D, Benoist C. PNAS.
+    Moodley D, Yoshida H,<u> Mostafavi S</u>, ..., Mathis D, Benoist C. <I>PNAS</I>.
   image: ../images/jakpaper.png
   year: 2016
   repo:
@@ -94,7 +94,7 @@
 - title: >
     Type I interferon signaling genes in recurrent major depression: increased expression detected by whole-blood RNA sequencing
   author: >
-    <u>Mostafavi S</u>, Battle A, Zhu X,..., Levinson DF. Molecular Psychiatry.
+    <u>Mostafavi S</u>, Battle A, Zhu X,..., Levinson DF. <I>Molecular Psychiatry</I>.
   image: ../images/ifna_figure_1.png
   year: 2013
   repo:
