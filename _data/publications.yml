@@ -4,6 +4,7 @@
   author: >
     Moodley D, Yoshida H,<u> Mostafavi S</u>, ..., Mathis D, Benoist C. PNAS 2016.
   image: ../images/jakpaper.png
+  year: 2016
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/27516546
@@ -14,6 +15,7 @@
   author: >
     Gaiteri C,<u> Mostafavi S</u>, Honey CJ, De Jager PL, Bennett DA. Nature Review Neurology 2016.
   image: ../images/NNR.png
+  year: 2016
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/27197214
@@ -23,6 +25,7 @@
   author: >
     Clifford RL, Jones MJ, Maclsaac JL, McEwan LM, Goodman SJ,<u> Mostafavi S</u>, Kobor MS, Carlsten C. Journal of Allergy & Clinical Immunology 2016.
   image: ../images/asthma.png
+  year: 2016
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/27321436
