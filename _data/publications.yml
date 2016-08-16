@@ -1,5 +1,15 @@
 ---
 - title: >
+    Network pharmacology of Jak inhibitors
+  author: >
+    Moodley D, Yoshida H,<u> Mostafavi S</u>, ..., Mathis D, Benoist C. PNAS 2016.
+  image: ../images/jakpaper.png
+  repo:
+    name: PubMed
+    url: http://www.ncbi.nlm.nih.gov/pubmed/27516546
+
+
+- title: >
     Genetic variants in Alzheimer disease - molecular and brain network approaches
   author: >
     Gaiteri C,<u> Mostafavi S</u>, Honey CJ, De Jager PL, Bennett DA. Nature Review Neurology 2016.
