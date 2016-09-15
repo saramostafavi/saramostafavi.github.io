@@ -32,6 +32,9 @@ h1, h2,h3 {
     justify
 }
 
+img {
+    image-orientation: from-image;
+}
 .section .image {
     max-width: 400px;
     padding: 20px;
