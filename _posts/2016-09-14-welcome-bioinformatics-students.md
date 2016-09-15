@@ -11,4 +11,4 @@ excerpt: >
 
 <img src="/images/bio1.JPG" width="330">
 <img src="/images/bio2.JPG" width="330">
-<img src="/images/bio3.JPG" width="330" data-rotate="90">
+<img src="/images/bio3.JPG" width="330" data-rotate="0">
