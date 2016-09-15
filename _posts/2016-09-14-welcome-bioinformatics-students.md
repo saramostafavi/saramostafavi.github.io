@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome new and old Bioinformatics students. 
+title:  Welcome to new Bioinformatics graduate students. 
 date:   2016-09-14
 excerpt: >
    Welcome reception for Bioinformatics graduate students
