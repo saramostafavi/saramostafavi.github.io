@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome to UBC's Bioinformatics graduate students! 
+title:  Welcome to UBC's new Bioinformatics graduate students! 
 date:   2016-09-14
 excerpt: >
    Welcome reception for Bioinformatics graduate students
