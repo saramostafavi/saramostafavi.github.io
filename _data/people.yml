@@ -4,8 +4,12 @@
   photo: "images/saram.png"
   
 - name: Bernard Ng
-  role: Postdoctoral Fellow
+  role: Research Associate
   photo: "/images/Bernard.jpg"
+
+- name: Hamid Omid
+  role: Postdoctoral Fellow
+  photo: "/images/hamid.png"
   
   
 - name: Louie Dinh
