@@ -1,5 +1,28 @@
 ---
 - title: >
+    Brain xQTL Map: Integrating The Genetic Architecture Of The Human Brain Transcriptome And Epigenome
+  author: >
+    Ng B, White C, Klein HU, ...,<u> Mostafavi S*</u>, De Jager P*. <I>bioRxiv (to appear in Nature Neuroscience)</I>.
+  image: ../images/xQTL.png
+  year: 2017
+  repo:
+    name: PubMed
+    url: http://www.biorxiv.org/content/early/2017/05/27/142927
+
+
+
+- title: >
+    Allele-specific expression reveals interactions between genetic variation and environment
+  author: >
+    Knowles D,Davis JR, Edgington H, ...,<u> Mostafavi S</u>, Montgomery SB*, Battle AJ*. <I>Nature Methods</I>.
+  image: ../images/EAGLE.png
+  year: 2017
+  repo:
+    name: PubMed
+    url: https://www.ncbi.nlm.nih.gov/pubmed/28530654
+
+
+- title: >
     Network pharmacology of Jak inhibitors
   author: >
     Moodley D, Yoshida H,<u> Mostafavi S</u>, ..., Mathis D, Benoist C. <I>PNAS</I>.
