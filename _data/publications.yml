@@ -1,13 +1,13 @@
 ---
 - title: >
-    Brain xQTL Map: Integrating The Genetic Architecture Of The Human Brain Transcriptome And Epigenome
+    An xQTL map integrates the genetic architecture of the human brain's transcriptome and epigenome.
   author: >
-    Ng B, White C, Klein HU, ...,<u> Mostafavi S*</u>, De Jager P*. <I>bioRxiv (to appear in Nature Neuroscience)</I>.
+    <u>Ng B</u>, White C, Klein HU, ...,<u> Mostafavi S*</u>, De Jager P*. <I>bioRxiv (to appear in Nature Neuroscience)</I>.
   image: ../images/xQTL.png
   year: 2017
   repo:
-    name: bioRxiv
-    url: http://www.biorxiv.org/content/early/2017/05/27/142927
+    name: PubMed
+    url: https://www.ncbi.nlm.nih.gov/pubmed/28869584
 
 
 
