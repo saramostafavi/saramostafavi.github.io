@@ -12,11 +12,6 @@
   photo: "/images/hamid.png"
   
   
-- name: Louie Dinh
-  role: MSc Student - Comp Sci
-  program: co-advised by Raymond Ng
-  photo: "/images/Louie.jpg"
-  
 - name: Farnush Farhadi
   role: MSc Student - Bioinformatics
   photo: "/images/Farnush.png"
@@ -25,6 +20,14 @@
 - name: Emma Graham
   role: MSc Student - Bioinformatics
   photo: "/images/Emma.jpg"
+  
+  - name: William Cassaza
+  role: PhD Student - Bioinformatics
+  photo: "/images/WillC.png"
+  
+  - name: Sina Jafarzadeh
+  role: PhD Student - Bioinformatics
+  photo: "/images/WillJ.png"
   
 
 
