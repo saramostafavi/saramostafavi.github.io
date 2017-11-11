@@ -21,11 +21,11 @@
   role: MSc Student - Bioinformatics
   photo: "/images/Emma.jpg"
   
-  - name: William Cassaza
+- name: William Cassaza
   role: PhD Student - Bioinformatics
   photo: "/images/WillC.png"
   
-  - name: Sina Jafarzadeh
+- name: Sina Jafarzadeh
   role: PhD Student - Bioinformatics
   photo: "/images/WillJ.png"
   
