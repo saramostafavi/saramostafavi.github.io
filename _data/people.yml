@@ -6,11 +6,6 @@
 - name: Bernard Ng
   role: Research Associate
   photo: "/images/Bernard.jpg"
-
-- name: Hamid Omid
-  role: Postdoctoral Fellow
-  photo: "/images/hamid.png"
-  
   
 - name: Farnush Farhadi
   role: MSc Student - Bioinformatics
@@ -28,6 +23,15 @@
 - name: Sina Jafarzadeh
   role: PhD Student - Bioinformatics
   photo: "/images/SinaJ.png"
+
+- name: Sasha Maslova
+  role: MSc Student - Bioinformatics
+  photo: "/images/Sasha.jpg"
+
+
+- name: Mike Vermeulen
+  role: MSc Student - Medical Genetics
+  photo: "/images/MikeV.JPG"
   
 
 
