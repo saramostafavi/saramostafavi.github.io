@@ -1,4 +1,28 @@
 ---
+
+- title: >
+    Integration of genomics and metabolomics for prioritization of rare disease variants: a 2018 literature review
+  author: >
+    <u>Mostafavi, S*</u>, Gaiteri C*, ..., Bennett D*, De Jager P*. <I>Nature Neuroscience</I>.
+  image: ../images/AD.jpeg
+  year: 2018
+  repo:
+    name: PubMed
+    url: https://www.ncbi.nlm.nih.gov/pubmed/29802388
+
+
+- title: >
+    Integration of genomics and metabolomics for prioritization of rare disease variants: a 2018 literature review
+  author: >
+    <u>Graham, E</u>, ...,Van Karnebeek CBD*, <u> Mostafavi S*</u>. <I>Journal of Inherited Metabolic Disease</I>.
+  image: ../images/IEMs.jpeg
+  year: 2018
+  repo:
+    name: PubMed
+    url: https://www.ncbi.nlm.nih.gov/pubmed/29721916
+
+
+
 - title: >
     An xQTL map integrates the genetic architecture of the human brain's transcriptome and epigenome.
   author: >
