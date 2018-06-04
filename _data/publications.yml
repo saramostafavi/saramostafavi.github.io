@@ -1,9 +1,9 @@
 ---
 
 - title: >
-    Integration of genomics and metabolomics for prioritization of rare disease variants: a 2018 literature review
+    A molecular network of the aging human brain provides insights into the pathology and cognitive decline of Alzheimer’s disease
   author: >
-    <u>Mostafavi, S*</u>, Gaiteri C*, ..., Bennett D*, De Jager P*. <I>Nature Neuroscience</I>.
+    <u>Mostafavi S*</u>, Gaiteri C*, ..., Bennett D*, De Jager P*. <I>Nature Neuroscience</I>.
   image: ../images/AD.jpeg
   year: 2018
   repo:
@@ -14,7 +14,7 @@
 - title: >
     Integration of genomics and metabolomics for prioritization of rare disease variants: a 2018 literature review
   author: >
-    <u>Graham, E</u>, ...,Van Karnebeek CBD*, <u> Mostafavi S*</u>. <I>Journal of Inherited Metabolic Disease</I>.
+    <u>Graham E</u>, ...,Van Karnebeek CBD*, <u> Mostafavi S*</u>. <I>Journal of Inherited Metabolic Disease</I>.
   image: ../images/IEMs.jpeg
   year: 2018
   repo:
