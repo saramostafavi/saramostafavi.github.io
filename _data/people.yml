@@ -27,7 +27,11 @@
 - name: Mike Vermeulen
   role: MSc Student - Medical Genetics
   photo: "/images/MikeV.JPG"
-  
+
+- name: Elijah Willie
+  role: MSc Student - Bioinformatics
+  photo: "/images/Mark.png"  
+
 - name: Ke (Mark) Ma
   role: Undergraduate Student - CS
   photo: "/images/Mark.png"
