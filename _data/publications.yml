@@ -1,6 +1,16 @@
 ---
 
 - title: >
+    The cis-Regulatory Atlas of the Mouse Immune System.
+  author: >
+    Yoshida H, Lereau, ..., <u>Mostafavi S*</u>, Buenrostro J*, Benoist C*. <I>Cell</I>.
+  image: ../images/CellAtlas.png
+  year: 2019
+  repo:
+    name: PubMed
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30686579
+
+- title: >
     A molecular network of the aging human brain provides insights into the pathology and cognitive decline of Alzheimer’s disease
   author: >
     <u>Mostafavi S*</u>, Gaiteri C*, ..., Bennett D*, De Jager P*. <I>Nature Neuroscience</I>.
