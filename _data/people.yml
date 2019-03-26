@@ -24,7 +24,7 @@
   photo: "/images/SinaJ.png"
 
 - name: German Novakovsky
-  role: PhD Student, co-supervised by Wyeth Wasserman - Bioinformatics
+  role: PhD Student (co-supervisor Dr. Wasserman)
   photo: "/images/german.jpg" 
 
 - name: Sasha Maslova
@@ -40,12 +40,6 @@
   role: MSc Student - Bioinformatics
   photo: "/images/Elijah.jpg"  
 
-- name: Nam Hee Kim
-  role: Undergraduate Student - CS
-  photo: "/images/NAM.jpeg"
 
-- name: Ke (Mark) Ma
-  role: Undergraduate Student - CS
-  photo: "/images/Mark.png"
 
 

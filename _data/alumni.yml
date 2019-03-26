@@ -20,3 +20,11 @@
   role: MSc Student - Bioinformatics
   photo: "/images/Farnush.png"
   lnp: Data Scientist at SickKids
+
+- name: Nam Hee Kim
+  role: Undergraduate Student - CS
+  photo: "/images/NAM.jpeg"
+
+- name: Ke (Mark) Ma
+  role: Undergraduate Student - CS
+  photo: "/images/Mark.png"
