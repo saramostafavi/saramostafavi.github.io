@@ -10,10 +10,10 @@
     name: MSc thesis
     url: https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0374227
 
-- title: >
-    Molecular Interpretation of genome-wide association studies using multiomics analysis.
-  author: >
-    Farnush Farhadi Hassan Kiadeh.
+- author: >
+    Molecular interpretation of genome-wide association studies using multiomics analysis.
+  title: >
+    Molecular interpretation of genome-wide association studies using multiomics analysis.
   image: ../images/Farnush.png
   year: 2018
   repo:
