@@ -1,15 +1,14 @@
 ---
 
 - title: >
-    Estimating Cell Type Proportions in Human Cord Blood Samples from DNAm arrays.
+    Integration of genomic and metabolomic data for the prioritization of rare disease variants.
   author: >
-    Louie Dinh.
-  image: ../images/Louie.jpg
-  year: 2017
+    Emma Graham.
+  image: ../images/Emma.jpg
+  year: 2018
   repo:
     name: MSc thesis
-    url: https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0356611
-
+    url: https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0374227
 
 - title: >
     Molecular Interpretation of Genome-wide Association Studies Using Multiomics Analysis.
@@ -22,12 +21,11 @@
     url: https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0368592
 
 - title: >
-    Integration of genomic and metabolomic data for the prioritization of rare disease variants.
+    Estimating Cell Type Proportions in Human Cord Blood Samples from DNAm arrays.
   author: >
-    Emma Graham.
-  image: ../images/Emma.jpg
-  year: 2018
+    Louie Dinh.
+  image: ../images/Louie.jpg
+  year: 2017
   repo:
     name: MSc thesis
-    url: https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0374227
-
+    url: https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0356611
