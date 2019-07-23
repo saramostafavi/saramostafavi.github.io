@@ -1,6 +1,16 @@
 ---
 
 - title: >
+    Somatic mosaicism of sex chromosomes in the blood and brain.
+  author: >
+    Emma Graham, Mike Vermeulen, Badri Vardarjan, ... , Tracy Young-Pearse*,<u>Mostafavi S*</u>. <I>Brain Research</I>.
+  image: ../images/sexX.png
+  year: 2019
+  repo:
+    name: PubMed
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30686579
+
+- title: >
     The cis-Regulatory Atlas of the Mouse Immune System.
   author: >
     Yoshida H, Lereau C, ..., <u>Mostafavi S*</u>, Buenrostro J*, Benoist C*. <I>Cell</I>.
