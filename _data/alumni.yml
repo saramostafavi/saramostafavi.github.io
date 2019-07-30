@@ -28,3 +28,8 @@
 - name: Ke (Mark) Ma
   role: Undergraduate Student - CS
   photo: "/images/Mark.png"
+  
+- name: Emma Graham
+  role: MSc Student - Bioinformatics
+  photo: "/images/Emma.jpg"
+  lnp: MD/PhD student at University of Wisconsin--Madison
