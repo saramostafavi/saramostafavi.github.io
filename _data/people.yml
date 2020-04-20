@@ -12,12 +12,9 @@
   photo: "/images/chendi.jpg"  
   
 - name: William Casazza
-  role: PhD Student - Bioinformatics
+  role: PhD Student - Bioinformatics (co-supervised by Jessica Dennis)
   photo: "/images/WillC.png"
   
-- name: Sina Jafarzadeh
-  role: PhD Student - Bioinformatics
-  photo: "/images/sinaJ2.png"
 
 - name: German Novakovsky
   role: PhD Student (co-supervised by Wyeth Wasserman)
@@ -26,6 +23,10 @@
 - name: Yichen Zhang
   role: PhD Student - Statistics
   photo: "/images/yichens.png"
+
+- name: Sina Jafarzadeh
+  role: Msc Student - Bioinformatics
+  photo: "/images/sinaJ2.png"
 
 
 - name: Sasha Maslova
