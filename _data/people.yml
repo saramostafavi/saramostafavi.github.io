@@ -14,7 +14,6 @@
 - name: William Casazza
   role: PhD Student - Bioinformatics (co-supervised by Jessica Dennis)
   photo: "/images/WillC.png"
-  
 
 - name: German Novakovsky
   role: PhD Student (co-supervised by Wyeth Wasserman)
@@ -28,11 +27,9 @@
   role: Msc Student - Bioinformatics
   photo: "/images/sinaJ2.png"
 
-
 - name: Sasha Maslova
   role: MSc Student - Bioinformatics
   photo: "/images/Sasha.jpg"
-
 
 - name: Mike Vermeulen
   role: MSc Student - Medical Genetics
@@ -54,3 +51,10 @@
   role: MSc Student - Bioinformatics (co-supervised by Wyeth Wasserman)
   photo: "/images/Nicole.png"
 
+- name: Matthew Parker
+  role: Research Assistant
+  photo: "/images/Matthew.jpg"
+
+- name: Etienne Meunier
+  role: Research Assistant
+  photo: "/images/EtienneS.png"
