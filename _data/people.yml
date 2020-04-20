@@ -14,22 +14,22 @@
 - name: William Casazza
   role: PhD Student (co-supervised by Jessica Dennis)
   photo: "/images/WillC.png"
-
+    
 - name: German Novakovsky
   role: PhD Student (co-supervised by Wyeth Wasserman)
   photo: "/images/german.jpg" 
-
+   
 - name: Yichen Zhang
   role: PhD Student - Statistics
-  photo: "/images/yichens.png"
-
+  photo: "/images/yichens.png" 
+  
 - name: Sasha Maslova
   role: MSc Student - Bioinformatics
-  photo: "/images/Sasha.jpg"
+  photo: "/images/Sasha.jpg" 
 
 - name: Sina Jafarzadeh
   role: Msc Student - Bioinformatics
-  photo: "/images/sinaJ2.png"
+  photo: "/images/sinaJ2.png" 
 
 - name: Mike Vermeulen
   role: MSc Student - Medical Genetics
@@ -45,7 +45,7 @@
 
 - name: Ishika Luthra
   role: MSc Student - Bioinformatics
-  photo: "/images/Ishika.png"
+  photo: "/images/Ishika.png" 
 
 - name: Nicole Zhang
   role: MSc Student (co-supervised by Wyeth Wasserman)
