@@ -22,11 +22,11 @@
 - name: Yichen Zhang
   role: PhD Student - Statistics
   photo: "/images/yichens.png" 
-  
+   
 - name: Sasha Maslova
   role: MSc Student - Bioinformatics
   photo: "/images/Sasha.jpg" 
-
+   
 - name: Sina Jafarzadeh
   role: Msc Student - Bioinformatics
   photo: "/images/sinaJ2.png" 
@@ -46,7 +46,3 @@
 - name: Ishika Luthra
   role: MSc Student - Bioinformatics
   photo: "/images/Ishika.png" 
-
-- name: Nicole Zhang
-  role: MSc Student (co-supervised by Wyeth Wasserman)
-  photo: "/images/Nicole.png"
