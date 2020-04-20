@@ -22,27 +22,3 @@
 - name: Yichen Zhang
   role: PhD Student - Statistics
   photo: "/images/yichens.png"
-
-- name: Sasha Maslova
-  role: MSc Student - Bioinformatics
-  photo: "/images/Sasha.jpg"
-
-- name: Mike Vermeulen
-  role: MSc Student - Medical Genetics
-  photo: "/images/MikeV.JPG"
-
-- name: Elijah Willie
-  role: MSc Student - Bioinformatics
-  photo: "/images/Elijah.jpg"  
-
-- name: Teyden Nguyen
-  role: MSc Student - Bioinformatics
-  photo: "/images/Teyden.png" 
-
-- name: Ishika Luthra
-  role: MSc Student - Bioinformatics
-  photo: "/images/Ishika.png"
-
-- name: Nicole Zhang
-  role: MSc Student (co-supervised by Wyeth Wasserman)
-  photo: "/images/Nicole.png"
