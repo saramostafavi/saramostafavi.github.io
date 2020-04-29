@@ -1,6 +1,16 @@
 ---
 
 - title: >
+    Understanding gene regulatory mechanisms of mouse immune cells using a convolutional neural network
+  author: >
+    Alexandra (Sasha) Maslova.
+  image: ../images/Sasha.jpg
+  year: 2018
+  repo:
+    name: MSc thesis
+    url: ./MScThesis_Sasha.pdf
+
+- title: >
     Integration of genomic and metabolomic data for the prioritization of rare disease variants.
   author: >
     Emma Graham.
