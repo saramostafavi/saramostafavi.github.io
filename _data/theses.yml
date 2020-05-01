@@ -8,7 +8,7 @@
   year: 2018
   repo:
     name: MSc thesis
-    url: ./MScThesis_Sasha.pdf
+    url: ../docs/MScThesis_Sasha.pdf
 
 - title: >
     Integration of genomic and metabolomic data for the prioritization of rare disease variants.
