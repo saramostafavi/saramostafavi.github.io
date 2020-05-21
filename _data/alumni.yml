@@ -1,4 +1,10 @@
 ---
+
+- name: Chendi Wang
+  role: Postdoctoral Fellow
+  photo: "/images/chendi.jpg"  
+  lip: Senior AI researcher at Huawei Technologies
+
 - name: Halldor Thorhallsson
   role: MSc Student - Comp Sci
   program: co-advised by Raymond Ng

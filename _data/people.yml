@@ -7,9 +7,6 @@
   role: Research Associate
   photo: "/images/Bernard.jpg"
   
-- name: Chendi Wang
-  role: Postdoctoral Fellow
-  photo: "/images/chendi.jpg"  
   
 - name: William Casazza
   role: PhD Student (co-supervised by Jessica Dennis)
@@ -28,7 +25,7 @@
   photo: "/images/sinaJ2.png"
 
 - name: Sasha Maslova
-  role: MSc Student - Bioinformatics
+  role: PhD Student (co-supervised by Max Libbrecht)
   photo: "/images/Sasha.jpg"
 
 - name: Mike Vermeulen
