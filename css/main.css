@@ -115,3 +115,7 @@ p.pub-abstract {
 .pagination {
     text-align: center;
 }
+
+div.my-item {
+	min-height:500px;
+}
