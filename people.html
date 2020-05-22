@@ -9,14 +9,12 @@ layout: default
 
         {% for person in site.data.people %}
 
-        <div class="person col-md-4 col-sm-6 col-xs-12">
+        <div class="person col-md-4 col-sm-4 col-xs-12">
             <img src="{{ person.photo }}"
                  alt="photo" class="person-photo img-circle">
             <h3 class="person-role">{{ person.name }}</h3>
-            <p class="person-role">{{ person.role }}             
+            <p class="person-role">{{ person.role }}  </p>           
 			<br>{{ person.program }}
-            <br>{{ person.lnp}}
-            <br>{{ person.email }} </p>
 
         </div>
    
