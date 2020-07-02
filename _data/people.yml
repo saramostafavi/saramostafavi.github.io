@@ -28,13 +28,13 @@
   role: MSc Student - Bioinformatics
   photo: "/images/Elijah.jpg"  
 
-- name: Teyden Nguyen
-  role: MSc Student - Bioinformatics
-  photo: "/images/Teyden.png" 
-
 - name: Ishika Luthra
   role: MSc Student - Bioinformatics
   photo: "/images/Ishika.png"
+
+- name: Teyden Nguyen
+  role: MSc Student - Bioinformatics
+  photo: "/images/Teyden.png" 
 
 - name: Sasha Maslova
   role: PhD Student (co-supervised by Max Libbrecht)
