@@ -7,15 +7,14 @@
 - name: Bernard Ng
   role: Research Associate
   photo: "/images/Bernard.jpg"
-  
-  
-- name: William Casazza
-  role: PhD Student (co-supervised by Jessica Dennis)
-  photo: "/images/WillC.png"
 
 - name: German Novakovsky
   role: PhD Student (co-supervised by Wyeth Wasserman)
   photo: "/images/german.jpg" 
+
+- name: William Casazza
+  role: PhD Student (co-supervised by Jessica Dennis)
+  photo: "/images/WillC.png"
 
 - name: Yichen Zhang
   role: PhD Student - Statistics
@@ -24,10 +23,6 @@
 - name: Sina Jafarzadeh
   role: Msc Student - Bioinformatics
   photo: "/images/sinaJ2.png"
-
-- name: Sasha Maslova
-  role: PhD Student (co-supervised by Max Libbrecht)
-  photo: "/images/Sasha.jpg"
 
 - name: Elijah Willie
   role: MSc Student - Bioinformatics
@@ -40,3 +35,7 @@
 - name: Ishika Luthra
   role: MSc Student - Bioinformatics
   photo: "/images/Ishika.png"
+
+- name: Sasha Maslova
+  role: PhD Student (co-supervised by Max Libbrecht)
+  photo: "/images/Sasha.jpg"
