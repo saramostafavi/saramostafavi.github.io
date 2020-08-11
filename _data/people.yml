@@ -12,6 +12,10 @@
   role: PhD Student (co-supervised by Wyeth Wasserman)
   photo: "/images/german.jpg" 
 
+- name: Sasha Maslova
+  role: PhD Student (co-supervised by Max Libbrecht)
+  photo: "/images/Sasha.jpg"
+
 - name: William Casazza
   role: PhD Student (co-supervised by Jessica Dennis)
   photo: "/images/WillC.png"
@@ -19,6 +23,10 @@
 - name: Yichen Zhang
   role: PhD Student - Statistics
   photo: "/images/yichens.png"
+
+- name: Ishika Luthra
+  role: MSc Student - Bioinformatics
+  photo: "/images/Ishika.png"
 
 - name: Sina Jafarzadeh
   role: Msc Student - Bioinformatics
@@ -28,14 +36,10 @@
   role: MSc Student - Bioinformatics
   photo: "/images/Elijah.jpg"  
 
-- name: Ishika Luthra
-  role: MSc Student - Bioinformatics
-  photo: "/images/Ishika.png"
-
 - name: Teyden Nguyen
   role: MSc Student - Bioinformatics
   photo: "/images/Teyden.png" 
 
-- name: Sasha Maslova
-  role: PhD Student (co-supervised by Max Libbrecht)
-  photo: "/images/Sasha.jpg"
+- name: Mike Vermeulen
+  role: MSc Student - Medical Genetics
+  photo: "/images/MikeV.JPG"
