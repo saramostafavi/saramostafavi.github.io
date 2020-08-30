@@ -2,6 +2,17 @@
 
 
 - title: >
+    metPropagate: Deconvolving the contributions of cell-type heterogeneity on cortical gene expression
+  author: >
+    <u>Ellis Patrick</u>, Mariko Taga, Ayla Ergun,  ... , Elizabeth Bradshaw, <u>Sara Mostafavi</u>. <I>PLOS Computational Biology</I>.
+  image: ../images/ploscb.tif
+  year: 2020
+  repo:
+    name: link
+    url: https://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1008120
+
+
+- title: >
     metPropagate: network-guided propagation of metabolomic information for prioritization of metabolic disease genes.
   author: >
     <u>Emma Graham Linck</u>, Philip A. Richmond,  ... , <u>Mostafavi S</u>. <I>npj Genomic Medicine</I>.
