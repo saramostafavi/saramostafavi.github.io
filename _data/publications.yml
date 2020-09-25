@@ -2,6 +2,18 @@
 
 
 - title: >
+    Deep learning of immune differentiation
+  author: >
+    <u>Alexandra (Sasha) Maslova </u>, Ricardo Ramirez, ... , Christophe Benoist*, <u>Sara Mostafavi*</u>. <I>PNAS</I>.
+  image: ../images/aitac.png
+  year: 2020
+  repo:
+    name: link
+    url: https://www.pnas.org/content/early/2020/09/23/2011795117
+
+
+
+- title: >
     Deconvolving the contributions of cell-type heterogeneity on cortical gene expression
   author: >
     <u>Ellis Patrick</u>, Mariko Taga, Ayla Ergun,  ... , Elizabeth Bradshaw, <u>Sara Mostafavi</u>. <I>PLOS Computational Biology</I>.

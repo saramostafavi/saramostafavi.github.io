@@ -3,6 +3,18 @@
   role: MSc Student - Medical Genetics
   photo: "/images/MikeV.JPG"
 
+- name: Sina Jafarzadeh
+  role: Msc Student - Bioinformatics
+  photo: "/images/sinaJ2.png"
+
+- name: Elijah Willie
+  role: MSc Student - Bioinformatics
+  photo: "/images/Elijah.jpg"  
+
+- name: Teyden Nguyen
+  role: MSc Student - Bioinformatics
+  photo: "/images/Teyden.png" 
+
 - name: Chendi Wang
   role: Postdoctoral Fellow
   photo: "/images/chendi.jpg"  
