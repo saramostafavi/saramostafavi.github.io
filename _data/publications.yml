@@ -1,5 +1,15 @@
 ---
 
+- title: >
+    Deep learning decodes the principles of differential gene expression
+  author: >
+    Shinya Tasaki, Chris Gaiteri, Sara Mostafavi, Yanling Wang <I>Nature Machine Intelligence</I>.
+  image: ../images/decode.png
+  year: 2020
+  repo:
+    name: link
+    url: https://www.nature.com/articles/s42256-020-0201-6
+
 
 - title: >
     Deep learning of immune cell differentiation
