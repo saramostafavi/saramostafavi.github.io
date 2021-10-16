@@ -1,6 +1,16 @@
 ---
+
+
+- name: Ishika Luthra
+  role: PhD Student at UBC - Bioinformatics (Carl De Boer's lab)
+  photo: "/images/Ishika.png"
+  
+- name: Sasha Maslova
+  role: PhD Student at SFU (Max Libbrecht's lab)
+  photo: "/images/Sasha.jpg"
+
 - name: Mike Vermeulen
-  role: MSc Student - Medical Genetics
+  role: PhD student at Queen's - Biology
   photo: "/images/MikeV.JPG"
 
 - name: Sina Jafarzadeh
