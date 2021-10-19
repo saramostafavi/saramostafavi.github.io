@@ -106,17 +106,6 @@
     url: https://www.ncbi.nlm.nih.gov/pubmed/29802388
 
 
-- title: >
-    Integration of genomics and metabolomics for prioritization of rare disease variants: a 2018 literature review
-  author: >
-    <u>Graham E</u>, ...,Van Karnebeek CBD*, <u> Mostafavi S*</u>. <I>Journal of Inherited Metabolic Disease</I>.
-  image: ../images/IEMs.jpeg
-  year: 2018
-  repo:
-    name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/29721916
-
-
 
 - title: >
     An xQTL map integrates the genetic architecture of the human brain's transcriptome and epigenome.
@@ -141,47 +130,8 @@
     url: https://www.ncbi.nlm.nih.gov/pubmed/28530654
 
 
-- title: >
-    Network pharmacology of Jak inhibitors
-  author: >
-    Moodley D, Yoshida H,<u> Mostafavi S</u>, ..., Mathis D, Benoist C. <I>PNAS</I>.
-  image: ../images/jakpaper.png
-  year: 2016
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/27516546
 
 
-- title: >
-    Genetic variants in Alzheimer disease - molecular and brain network approaches
-  author: >
-    Gaiteri C,<u> Mostafavi S</u>, Honey CJ, De Jager PL, Bennett DA. <I>Nature Review Neurology</I>.
-  image: ../images/NNR.png
-  year: 2016
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/27197214
-
-- title: >
-    Inhalation of diesel exhaust and allergen alters human bronchial epithelium DNA methylation
-  author: >
-    Clifford RL, Jones MJ, Maclsaac JL, McEwan LM, Goodman SJ,<u> Mostafavi S</u>, Kobor MS, Carlsten C. <I>Journal of Allergy & Clinical Immunology </I>.
-  image: ../images/asthma.png
-  year: 2016
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/27321436
-
-
-- title: >
-    Impact of the X Chromosome and sex on regulatory variation
-  author: >
-    Kukurba K, Parsana P, ..., <u> Mostafavi S</u>, Battle A*, Montgomery SB*.  <I>Genome Research </I>.
-  image: ../images/sexspec.png
-  year: 2016
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/27197214
 
 - title: >
     Parsing the interferon transcriptional network and its disease associations
