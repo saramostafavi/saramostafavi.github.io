@@ -4,7 +4,7 @@
     Biologically relevant transfer learning improves transcription factor binding prediction
   author: >
     <u>Gherman Novakovsky</u>, Manu Saraswat, Oriol Fornes, <u>Sara Mostafavi</u>, Wyeth Wasserman. <I>Genome Biology</I>.
-  image: ../images/Evgeny.png
+  image: ../images/TL.jpg
   year: 2021
   repo:
     name: pubmed
@@ -14,7 +14,7 @@
     Gut CD4+ T cell phenotypes are a continuum molded by microbes, not by TH archetypes
   author: >
     Evgeny Kiner, <u>Elijah Willie</u>, Brinda Vijaykumar, ..,<u>Sara Mostafavi</u>, Diane Mathis, Christophe Benoist. <I>Nature Immunology</I>.
-  image: ../images/TL.jpg
+  image: ../images/Evgeny.png
   year: 2021
   repo:
     name: pubmed
