@@ -23,7 +23,7 @@
 - title: >
     Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer's disease neuropathologies
   author: >
-    Nicasia Beebe-Wang, Safiye Celik, ..., <b>Sara Mostafavi</b>*, Su-In Lee*. <I>Nature Communications</I>.
+    Nicasia Beebe-Wang, Safiye Celik, ..., <b>Sara Mostafavi</b><sup>$</sup>, Su-In Lee<sup>$</sup>. <I>Nature Communications</I>.
   image: ../images/MDAD.jpg
   year: 2021
   repo:
@@ -45,7 +45,7 @@
 - title: >
     Deep learning of immune cell differentiation
   author: >
-    <u>Alexandra (Sasha) Maslova* </u>, Ricardo Ramirez*, ... , Christophe Benoist$, <b>Sara Mostafavi$</b>. <I>PNAS</I>.
+    <u>Alexandra (Sasha) Maslova* </u>, Ricardo Ramirez*, ... , Christophe Benoist<sup>$</sup>, <b>Sara Mostafavi</b><sup>$</sup>. <I>PNAS</I>.
   image: ../images/aitac.png
   year: 2020
   repo:
@@ -88,7 +88,7 @@
 - title: >
     Somatic mosaicism of sex chromosomes in the blood and brain.
   author: >
-    <u>Emma Graham</u>, <u>Mike Vermeulen</u>, Badri Vardarjan, ... , Tracy Young-Pearse$,<u>Mostafavi S$</u>. <I>Brain Research</I>.
+    <u>Emma Graham</u>, <u>Mike Vermeulen</u>, Badri Vardarjan, ... , Tracy Young-Pearse<sup>$</sup>,<u>Mostafavi S</u><sup>$</sup>. <I>Brain Research</I>.
   image: ../images/sexX.png
   year: 2019
   repo:
@@ -98,7 +98,7 @@
 - title: >
     The cis-Regulatory Atlas of the Mouse Immune System.
   author: >
-    Yoshida H, Lereau C, ..., <b>Mostafavi S$</b>, Buenrostro J$, Benoist C$. <I>Cell</I>.
+    Yoshida H, Lereau C, ..., <b>Mostafavi S</b><sup>$</sup>, Buenrostro J<sup>$</sup>, Benoist C<sup>$</sup>. <I>Cell</I>.
   image: ../images/CellAtlas.png
   year: 2019
   repo:
@@ -108,7 +108,7 @@
 - title: >
     A molecular network of the aging human brain provides insights into the pathology and cognitive decline of Alzheimer’s disease
   author: >
-    <b>Mostafavi S*</b>, Gaiteri C*, ..., Bennett D$, De Jager P$. <I>Nature Neuroscience</I>.
+    <b>Mostafavi S*</b>, Gaiteri C*, ..., Bennett D, De Jager P. <I>Nature Neuroscience</I>.
   image: ../images/AD.jpeg
   year: 2018
   repo:
@@ -120,7 +120,7 @@
 - title: >
     An xQTL map integrates the genetic architecture of the human brain's transcriptome and epigenome.
   author: >
-    <u>Ng B</u>, White C, Klein HU, ...,<b> Mostafavi S$</b>, De Jager P$. <I>Nature Neuroscience</I>.
+    <u>Ng B</u>, White C, Klein HU, ...,<b> Mostafavi S</b><sup>$</sup>, De Jager P<sup>$</sup>. <I>Nature Neuroscience</I>.
   image: ../images/xQTL.png
   year: 2017
   repo:
@@ -132,7 +132,7 @@
 - title: >
     Allele-specific expression reveals interactions between genetic variation and environment
   author: >
-    Knowles D,Davis JR, Edgington H, ...,<b> Mostafavi S</b>, Montgomery SB$, Battle AJ$. <I>Nature Methods</I>.
+    Knowles D,Davis JR, Edgington H, ...,<b> Mostafavi S</b>, Montgomery SB, Battle AJ. <I>Nature Methods</I>.
   image: ../images/EAGLE.png
   year: 2017
   repo:
@@ -156,7 +156,7 @@
 - title: >
     Sharing and Specificity of Co-expression Networks across 35 Human Tissues
   author: >
-    <u>Pierson E</u>, the GTEx Consortium, Koller D, Battle A$, <u>Mostafavi S$</u>.  <I>PLOS Computational Biology </I>.
+    <u>Pierson E</u>, the GTEx Consortium, Koller D, Battle A<sup>$</sup>, <u>Mostafavi S</u><sup>$</sup>.  <I>PLOS Computational Biology </I>.
   image: ../images/plos_comp_bio_fig.png
   year: 2015
   repo:
@@ -166,7 +166,7 @@
 - title: >
     Polarization of the effects of autoimmune and neurodegenerative risk alleles in leukocytes
   author: >
-    Raj T, Rothamel K, <b>Mostafavi S</b>,..., Benoist C$, Stranger BE$, De Jager PL$.  <I>Science </I>.
+    Raj T, Rothamel K, <b>Mostafavi S</b>,..., De Jager PL.  <I>Science </I>.
   image: ../images/immvar.png
   year: 2014
   repo:
