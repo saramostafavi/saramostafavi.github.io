@@ -57,7 +57,7 @@
 - title: >
     Deconvolving the contributions of cell-type heterogeneity on cortical gene expression
   author: >
-    Ellis Patrick, Mariko Taga, Ayla Ergun,  ... , Elizabeth Bradshaw, <b>Sara Mostafavi</b>. <I>PLOS Computational Biology</I>.
+    Ellis Patrick, Mariko Taga, Ayla Ergun,  ... , Elizabeth Bradshaw<sup>$</sup>, <b>Sara Mostafavi</b><sup>$</sup>. <I>PLOS Computational Biology</I>.
   image: ../images/ploscb.png
   year: 2020
   repo:
