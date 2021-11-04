@@ -1,6 +1,16 @@
 ---
 
 - title: >
+    Improving the estimation of Y chromosome loss using high-throughput sequencing
+  author: >
+    Michael Vermeulen.
+  image: ../images/Mike.jpg
+  year: 2020
+  repo:
+    name: MSc thesis
+    url: ../docs/MScThesis_Mike.pdf
+
+- title: >
     Understanding gene regulatory mechanisms of mouse immune cells using a convolutional neural network
   author: >
     Alexandra (Sasha) Maslova.
