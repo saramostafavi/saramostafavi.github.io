@@ -1,4 +1,13 @@
 ---
+- title: >
+    Robust methods for identifying cluster structure in single-cell RNA-sequecing data
+  author: >
+    Elijah Willie.
+  image: ../images/Elijah.jpg
+  year: 2020
+  repo:
+    name: MSc thesis
+    url: ../docs/MScThesis_Elijah.pdf
 
 - title: >
     Improving the estimation of Y chromosome loss using high-throughput sequencing
