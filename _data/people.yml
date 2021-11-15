@@ -16,14 +16,6 @@
   role: PhD Student at UBC (co-supervised by Wyeth Wasserman)
   photo: "/images/german.jpg" 
 
-- name: William Casazza
-  role: PhD Student at UBC (co-supervised by Jessica Dennis)
-  photo: "/images/WillC.png"
-
-- name: Yichen Zhang
-  role: PhD Student at UBC - Statistics
-  photo: "/images/yichens.png"
-
 - name: Xinming Tu
   role: PhD Student at UW - CSE
   photo: "/images/Xinming.png"
@@ -31,4 +23,9 @@
 - name: Woody Ahern
   role: PhD rotation UW - CSE
   photo: "/images/Woody.png"
+  
+- name: William Casazza
+  role: PhD Student at UBC (co-supervised by Jessica Dennis)
+  photo: "/images/WillC.png"
+
 
