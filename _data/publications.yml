@@ -1,6 +1,16 @@
 ---
 
 - title: >
+    Cascading epigenomic analysis for identifying disease genes from the regulatory landscape of GWAS variants
+  author: >
+    <u>Bernard Ng</u>, <u>William Casazza</u>, ..., <b>Sara Mostafavi</b>. <I>PLOS Genetics</I>.
+  image: ../images/CEWAS.jpg
+  year: 2021
+  repo:
+    name: link
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009918
+
+- title: >
     Biologically relevant transfer learning improves transcription factor binding prediction
   author: >
     <u>Gherman Novakovsky</u>, Manu Saraswat, Oriol Fornes, <b>Sara Mostafavi</b>, Wyeth Wasserman. <I>Genome Biology</I>.
