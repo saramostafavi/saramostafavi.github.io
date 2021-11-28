@@ -11,7 +11,41 @@ layout: page
     <br>
     <p> Underline: trainees from Mostafavi lab; *: co-first authorship; $: co-senior authorship.</p>
     <br>
+    {% for pub in site.data.theses %}
 
+    <h2 class="Pre-prints">Student Theses</h1>
+    <br>
+	
+    <div class="pub row">
+        <div class="col-sm-2">
+            {% if pub.image.url %}
+            <a href="{{ pub.image.url }}">
+                <img class="pub-image" src="{{ pub.image.src }}"
+                     alt="illustration and link to full text" class="pub-image">
+            </a>
+            {% else %}
+            <img class="pub-image" src="{{ pub.image }}"
+                 alt="illustration" class="pub-image">
+            {% endif %}
+        </div>
+        <div class="col-sm-8">
+            <h4 class="pub-title">{{ pub.title }}</h4>
+            <p class="pub-author">{{ pub.author }}</p>
+            <p class="pub-where">{{ pub.where }}</p>
+            {% if pub.abstract %}
+            <p class="pub-abstract">{{ pub.abstract }}</p>
+            {% endif %}
+        </div>
+        <div class="col-sm-1">
+            <h8 class="pub-year">{{pub.year}}</h8>
+        </div>
+        <div class="col-sm-2">
+            <a href="{{ pub.repo.url }}">{{ pub.repo.name }}</a>
+        </div>
+    </div>
+
+    {% endfor %}
+	
     {% for pub in site.data.publications %}
 
     <div class="pub row">
