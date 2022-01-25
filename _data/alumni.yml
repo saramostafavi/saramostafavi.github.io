@@ -1,5 +1,9 @@
 ---
 
+- name: Woody Ahern
+  role: PhD rotation UW - CSE
+  photo: "/images/Woody.png"
+
 - name: Yichen Zhang
   role: PhD Student at UBC - Statistics  (Yongin Park's group)
   photo: "/images/yichens.png"
