@@ -1,6 +1,16 @@
 ---
 
 - title: >
+    ExplaiNN: interpretable and transparent neural networks for genomics
+  author: >
+    <u>German Novakovsky</u>,  Oriol Fornes,  Manu Saraswat,  <b>Sara Mostafavi</b>,  Wyeth W Wasserman. <I>bioRxiv</I>
+  image: ../images/explaiNN.png
+  year: 2022
+  repo:
+    name: link
+    url: https://www.biorxiv.org/content/10.1101/2022.05.20.492818v1
+
+- title: >
     Mosaic loss of chromosome Y in aged human microglia
   author: >
     <u>Michael Vermeulen</u>, Richard Pearse, Tracy Young-Pearse, <b>Sara Mostafavi</b>. <I>bioRxiv</I>.
