@@ -1,6 +1,17 @@
 ---
 
 - title: >
+    Mosaic loss of chromosome Y in aged human microglia
+  author: >
+    <u>Michael Vermeulen</u>, Richard Pearse, Tracy Young-Pearse, <b>Sara Mostafavi</b>. <I>Genome Research</I>.
+  image: ../images/LOY.png
+  year: 2022
+  repo:
+    name: link
+    url: https://genome.cshlp.org/content/early/2022/08/30/gr.276409.121
+
+
+- title: >
     CEWAS: Cascading Epigenomic analysis for identifying disease genes from the regulatory landscape of GWAS variants
   author: >
     <u>Bernard Ng</u>, <u>William Casazza</u>, ..., <b>Sara Mostafavi</b>. <I>PLOS Genetics</I>.
