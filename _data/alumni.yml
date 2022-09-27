@@ -1,4 +1,8 @@
 ---
+- name: Gherman Novakovsky
+  role: PhD Student at UBC (co-supervised by Wyeth Wasserman)
+  photo: "/images/german.jpg"
+  lnp: Illumina, Research Scientist
 
 - name: Woody Ahern
   role: PhD rotation UW - CSE
