@@ -1,4 +1,12 @@
 ---
+- name: Bernard Ng
+  role: Research Associate
+  photo: "/images/Bernard.jpg"
+  
+- name: William Casazza
+  role: PhD Student at UBC (Jessica Dennis' lab)
+  photo: "/images/WillC.png"
+
 - name: Gherman Novakovsky
   role: PhD Student at UBC (co-supervised by Wyeth Wasserman)
   photo: "/images/german.jpg"
