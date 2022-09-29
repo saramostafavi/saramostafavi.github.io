@@ -4,10 +4,6 @@
   role: Principal Investigator
   photo: "images/saram.png"
   
-- name: Bernard Ng
-  role: Research Associate
-  photo: "/images/Bernard.jpg"
-  
 - name: Alexander Sasse
   role: Postdoctoral Fellow
   photo: "/images/Alex2.png"  
@@ -16,11 +12,6 @@
   role: PhD Student at UW - CSE
   photo: "/images/Xinming.png"
   
-  
-- name: William Casazza
-  role: PhD Student at UBC (co-supervised by Jessica Dennis)
-  photo: "/images/WillC.png"
-
 - name: Anna Spiro
   role: UW CSE PhD Student 
   photo: "/images/Anna.jpg"
