@@ -1,4 +1,14 @@
 ---
+- title: >
+    Obtaining genetics insights from deep learning via explainable artificial intelligence
+  author: >
+    <u>Gherman Novakovsky</u>*, Nick Dexter*, Maxwell Libbrecht<sup>$</sup>, Wyeth Wasserman<sup>$</sup>, <b>Sara Mostafavi</b><sup>$</sup>. <I>Nature Reviews Genetics/I>.
+  image: ../images/NRG.png
+  year: 2022
+  repo:
+    name: link
+    url: https://www.nature.com/articles/s41576-022-00532-2
+
 
 - title: >
     Mosaic loss of chromosome Y in aged human microglia
