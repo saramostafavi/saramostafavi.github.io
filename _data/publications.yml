@@ -1,5 +1,15 @@
 ---
 - title: >
+    Cross-Linked Unified Embedding for cross-modality representation learning
+  author: >
+    <u>Xinming Tu</u>*, Zhi-Jie Cao*, Chen-Rui Xia, <b>Sara Mostafavi</b><sup>$</sup>, Ge Gao<sup>$</sup>. <I>NeurIPS</I>.
+  image: ../images/CLUE.png
+  year: 2022
+  repo:
+    name: PDF
+    url: https://xinmingtu.cn/assets/pdf/clue_paper.pdf
+
+- title: >
     Obtaining genetics insights from deep learning via explainable artificial intelligence
   author: >
     <u>Gherman Novakovsky</u>*, Nick Dexter*, Maxwell Libbrecht<sup>$</sup>, Wyeth Wasserman<sup>$</sup>, <b>Sara Mostafavi</b><sup>$</sup>. <I>Nature Reviews Genetics</I>.
