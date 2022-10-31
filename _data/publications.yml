@@ -30,6 +30,16 @@
     name: link
     url: https://genome.cshlp.org/content/early/2022/08/30/gr.276409.121
 
+- title: >
+    A practical guide to applying machine learning to infant EEG data
+  author: >
+    <u>Bernard Ng</u>*, Rebecca Reh, <b>Sara Mostafavi</b><sup>$</sup>. <I>Developmental Cognitive Neuroscience</I>.
+  image: ../images/EEG.png
+  year: 2022
+  repo:
+    name: link
+    url: https://www.sciencedirect.com/science/article/pii/S1878929322000408
+
 
 - title: >
     CEWAS: Cascading Epigenomic analysis for identifying disease genes from the regulatory landscape of GWAS variants
