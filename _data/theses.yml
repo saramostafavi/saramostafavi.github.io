@@ -1,5 +1,15 @@
 ---
 - title: >
+    Advancing our understanding of genome regulation via optimization of stem cell differentiation and interpretable deep learning
+  author: >
+    Gherman Novakovsky.
+  image: ../images/German.jpg
+  year: 2022
+  repo:
+    name: PhD thesis
+    url: https://open.library.ubc.ca/collections/ubctheses/24/items/1.0418592?o=2
+
+- title: >
     Robust methods for identifying cluster structure in single-cell RNA-sequecing data
   author: >
     Elijah Willie.
