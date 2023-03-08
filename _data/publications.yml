@@ -1,5 +1,15 @@
 ---
 - title: >
+    In silico discovery of small molecules for efficient stem cell differentiation into definitive endoderm
+  author: >
+    <u>Gherman Novakovsky</u>, Shugo Sasaki, ...<b>Sara Mostafavi</b>, Francis Lynn, Wyeth Wasserman. <I>Stem Cell Reports</I>.
+  image: ../images/stem.png
+  year: 2023
+  repo:
+    name: link
+    url: https://www.cell.com/stem-cell-reports/fulltext/S2213-6711(23)00011-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2213671123000115%3Fshowall%3Dtrue
+
+- title: >
     Cross-Linked Unified Embedding for cross-modality representation learning
   author: >
     <u>Xinming Tu</u>*, Zhi-Jie Cao*, Chen-Rui Xia, <b>Sara Mostafavi</b><sup>$</sup>, Ge Gao<sup>$</sup>. <I>NeurIPS</I> (Oral).
