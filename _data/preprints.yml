@@ -2,7 +2,7 @@
 - title: >
     How far are we from personalized gene expression prediction using sequence-to-expression deep neural networks?
   author: >
-     <u>Alex Sasse</u><sub>*</sub>, <u>Bernard Ng</u><sub>*</sub>, <u>Anna Spiro*</u><sub>*</sub>,Shinya Tasaki, David Bennett, Chris Gaiteri, Phil De Jager, Maria Chinkina<sub>$</sub>, <b> Sara Mostafvi$</b><sub>$</sub>.<I>bioRxiv</I>
+     <u>Alex Sasse</u><sub>*</sub>, <u>Bernard Ng</u><sub>*</sub>, <u>Anna Spiro*</u><sub>*</sub>,Shinya Tasaki, David Bennett, Chris Gaiteri, Phil De Jager, Maria Chinkina<sub>$</sub>, <b> Sara Mostafvi$</b><sub>$</sub>.<I> bioRxiv</I>
   image: ../images/Enformer.png
   year: 2023
   repo:
