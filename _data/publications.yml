@@ -1,5 +1,15 @@
 ---
 - title: >
+    ExplaiNN: interpretable and transparent neural networks for genomics
+  author: >
+    <u>Gherman Novakovsky</u>,  Oriol Fornes,  Manu Saraswat,  <b>Sara Mostafavi</b>,  Wyeth W Wasserman. <I>Genome Biology</I>
+  image: ../images/explaiNN.png
+  year: 2022
+  repo:
+    name: link
+    url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02985-y
+
+- title: >
     In silico discovery of small molecules for efficient stem cell differentiation into definitive endoderm
   author: >
     <u>Gherman Novakovsky</u>, Shugo Sasaki, ...<b>Sara Mostafavi</b>, Francis Lynn, Wyeth Wasserman. <I>Stem Cell Reports</I>.
