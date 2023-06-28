@@ -20,13 +20,3 @@
     name: link
     url: https://www.biorxiv.org/content/10.1101/2022.11.07.515446v1.full.pdf
 
-
-- title: >
-    ExplaiNN: interpretable and transparent neural networks for genomics
-  author: >
-    <u>Gherman Novakovsky</u>,  Oriol Fornes,  Manu Saraswat,  <b>Sara Mostafavi</b>,  Wyeth W Wasserman. <I>bioRxiv</I>
-  image: ../images/explaiNN.png
-  year: 2022
-  repo:
-    name: link
-    url: https://www.biorxiv.org/content/10.1101/2022.05.20.492818v1
