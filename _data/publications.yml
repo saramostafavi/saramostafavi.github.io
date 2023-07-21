@@ -22,7 +22,7 @@
 - title: >
     Cross-Linked Unified Embedding for cross-modality representation learning
   author: >
-    <u>Xinming Tu</u>*, Zhi-Jie Cao*, Chen-Rui Xia, <b>Sara Mostafavi</b><sup>$</sup>, Ge Gao<sup>$</sup>. <I>NeurIPS</I> (<p style="color:red">Oral</p>).
+    <u>Xinming Tu</u>*, Zhi-Jie Cao*, Chen-Rui Xia, <b>Sara Mostafavi</b><sup>$</sup>, Ge Gao<sup>$</sup>. <I>NeurIPS</I> (<FONT COLOR="RED">Oral</FONT>).
   image: ../images/CLUE2.png
   year: 2022
   repo:
@@ -43,7 +43,7 @@
 - title: >
     Mosaic loss of chromosome Y in aged human microglia
   author: >
-    <u>Michael Vermeulen</u>, Richard Pearse, Tracy Young-Pearse, <b>Sara Mostafavi</b>. <I>Genome Research</I>. <p style="color:red"><a href="https://genome.cshlp.org/content/32/10.cover-expansion">Cover article</a>,Oct 2022 issue</p>)
+    <u>Michael Vermeulen</u>, Richard Pearse, Tracy Young-Pearse, <b>Sara Mostafavi</b>. <I>Genome Research</I>. <FONT COLOR="RED"><a href="https://genome.cshlp.org/content/32/10.cover-expansion">Cover article</a>,Oct 2022 issue</FONT>)
   image: ../images/LOY.png
   year: 2022
   repo:
