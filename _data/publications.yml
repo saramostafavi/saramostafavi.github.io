@@ -22,7 +22,7 @@
 - title: >
     Cross-Linked Unified Embedding for cross-modality representation learning
   author: >
-    <u>Xinming Tu</u>*, Zhi-Jie Cao*, Chen-Rui Xia, <b>Sara Mostafavi</b><sup>$</sup>, Ge Gao<sup>$</sup>. <I>NeurIPS</I> (Oral).
+    <u>Xinming Tu</u>*, Zhi-Jie Cao*, Chen-Rui Xia, <b>Sara Mostafavi</b><sup>$</sup>, Ge Gao<sup>$</sup>. <I>NeurIPS</I> (<p style="color:red">Oral</p>).
   image: ../images/CLUE2.png
   year: 2022
   repo:
