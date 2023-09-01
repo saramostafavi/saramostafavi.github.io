@@ -1,4 +1,8 @@
 ---
+- name: Eleos Cogne
+  role: Visiting undergrad researcher (from EPFL)
+  photo: "/images/Eleos.jpg"
+
 - name: Bernard Ng
   role: Research Associate
   photo: "/images/Bernard.jpg"
