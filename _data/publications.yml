@@ -1,5 +1,15 @@
 ---
 - title: >
+    Impact of random 50-base sequences inserted into an intron on splicing in Saccharomyces cerevisiae
+  author: >
+     Molly Perchlik, <u> Alex Sasse</u>,  <b>Sara Mostafavi</b>, Stan Fields, Josh T. Cuperus.<I> RNA</I>
+  image: ../images/RNA.png
+  year: 2023
+  repo:
+    name: link
+    url: https://rnajournal.cshlp.org/content/early/2023/10/25/rna.079752.123.abstract
+
+- title: >
     ExplaiNN: interpretable and transparent neural networks for genomics
   author: >
     <u>Gherman Novakovsky</u>,  Oriol Fornes,  Manu Saraswat,  <b>Sara Mostafavi</b>,  Wyeth W Wasserman. <I>Genome Biology</I>
