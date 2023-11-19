@@ -10,16 +10,6 @@
     url: https://www.biorxiv.org/content/10.1101/2023.03.16.532969v3
 
 - title: >
-    Cell-subtype specific effects of genetic variation in the aging and Alzheimer cortex
-  author: >
-     Masashi Fujita, Zongmei Gao, Lu Zeng, ..., <b> Sara Mostafavi</b>, David Bennett, Vilas Menon, Philip De Jager. <I>Nature Genetics (Accepted)</I>
-  image: ../images/scROSMAP.png
-  year: 2022
-  repo:
-    name: link
-    url: https://www.biorxiv.org/content/10.1101/2022.11.07.515446v1.full.pdf
-
-- title: >
     Impact of random 50-base sequences inserted into an intron on splicing in Saccharomyces cerevisiae
   author: >
      Molly Perchlik, <u> Alex Sasse</u>,  <b>Sara Mostafavi</b>, Stan Fields, Josh T. Cuperus.<I> RNA</I>
