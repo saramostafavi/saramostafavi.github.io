@@ -2,12 +2,12 @@
 - title: >
     Benchmarking of deep neural networks for predicting personal gene expression from DNA sequence highlights shortcomings
   author: >
-     <u>Alex Sasse</u><sup>*</sup>, <u>Bernard Ng</u><sup>*</sup>, <u>Anna Spiro</u><sup>*</sup>,Shinya Tasaki, David Bennett, Chris Gaiteri, Phil De Jager, Maria Chinkina<sup>$</sup>, <b> Sara Mostafavi</b><sup>$</sup>.<I> Nature Genetics (In Press)</I>
+     <u>Alex Sasse</u><sup>*</sup>, <u>Bernard Ng</u><sup>*</sup>, <u>Anna Spiro</u><sup>*</sup>,Shinya Tasaki, David Bennett, Chris Gaiteri, Phil De Jager, Maria Chinkina<sup>$</sup>, <b> Sara Mostafavi</b><sup>$</sup>.<I> Nature Genetics</I>
   image: ../images/Enf.png
   year: 2023
   repo:
     name: link
-    url: https://www.biorxiv.org/content/10.1101/2023.03.16.532969v3
+    url: https://www.nature.com/articles/s41588-023-01524-6
 
 - title: >
     Cell-subtype specific effects of genetic variation in the aging and Alzheimer cortex
