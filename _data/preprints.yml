@@ -1,10 +1,2 @@
 ---
-- title: >
-    Quick and effective approximation of in silico saturation mutagenesis experiments with first-order Taylor expansion
-  author: >
-     <u>Alex Sasse</u>, Maria Chikina<sup>$</sup>, <b> Sara Mostafavi</b><sup>$</sup>.<I> bioRxiv</I>
-  image: ../images/TISM.png
-  year: 2023
-  repo:
-    name: link
-    url: https://www.biorxiv.org/content/10.1101/2023.11.10.566588v1
+
