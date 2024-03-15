@@ -1,5 +1,15 @@
 ---
 - title: >
+    AIRE relies on Z-DNA to flag gene targets for thymic T cell tolerization
+  author: >
+     Yuan Fang, Kushagra Bansal, <b>Sara Mostafavi</b>, Christophe Benoist, Diane Mathis.<I> Nature</I>
+  image: ../images/Aire.png
+  year: 2024
+  repo:
+    name: link
+    url: https://www.nature.com/articles/s41586-024-07169-7
+
+- title: >
     Benchmarking of deep neural networks for predicting personal gene expression from DNA sequence highlights shortcomings
   author: >
      <u>Alex Sasse</u><sup>*</sup>, <u>Bernard Ng</u><sup>*</sup>, <u>Anna Spiro</u><sup>*</sup>,Shinya Tasaki, David Bennett, Chris Gaiteri, Phil De Jager, Maria Chinkina<sup>$</sup>, <b> Sara Mostafavi</b><sup>$</sup>.<I> Nature Genetics</I>
