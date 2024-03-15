@@ -1,5 +1,15 @@
 ---
 - title: >
+    Quick and effective approximation of in silico saturation mutagenesis experiments with first-order Taylor expansion
+  author: >
+     <u>Alex Sasse</u>, Maria Chikina<sup>$</sup>, <b> Sara Mostafavi</b><sup>$</sup>.<I> RECOMB-seq</I>
+  image: ../images/TISM.png
+  year: 2024
+  repo:
+    name: link
+    url: https://www.biorxiv.org/content/10.1101/2023.11.10.566588v1
+    
+- title: >
     AIRE relies on Z-DNA to flag gene targets for thymic T cell tolerization
   author: >
      Yuan Fang, Kushagra Bansal, <b>Sara Mostafavi</b>, Christophe Benoist, Diane Mathis.<I> Nature</I>
