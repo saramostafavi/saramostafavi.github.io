@@ -3,7 +3,7 @@
     Refining the cis-regulatory grammar learned by sequence-to-activity models by increasing model resolution
   author: >
      <u>Nuria Chandra</u>, Yan Hu, Jason D. Buenrostro, <b>Sara Mostafavi</b><sup>$</sup>,Alexander Sasse<sup>$</sup>.<I> bioRxiv</I>
-  image: ../images/Alina.pdf
+  image: ../images/alina.pdf
   year: 2025
   repo:
     name: link
@@ -12,7 +12,7 @@
 - title: >
     A scalable approach to investigating sequence-to-expression prediction from personal genomes
   author: >
-     <u>Anna Spiro</u><*>, Xinming Tu<*>, Yilun Sheng, Alexander Sasse, Rezwan Hosseini, Maria Chikina, <b> Sara Mostafavi</b><sup>$</sup>.<I> bioRxiv</I>
+     <u>Anna Spiro</u>*, <u>Xinming Tu</u>*, <u>Yilun Sheng</u>, <u>Alexander Sasse</u>, Rezwan Hosseini, Maria Chikina, <b> Sara Mostafavi</b><sup>$</sup>.<I> bioRxiv</I>
   image: ../images/Anna.pdf
   year: 2025
   repo:
