@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Sara will head Comp Bio & Translation Org at Genentech
+title:  Sara is on leave for the academic year 2024-2025 at Genentech, to head the CompBio and Translation Organization 
 date:   2024-10-28
 excerpt: >
-  Sara is on leave for the 2024-2025 academic year, spending her time at Genentech
+   Sara is on leave for the academic year 2024-2025 at Genentech, to head the CompBio and Translation Organization .
 ---
