@@ -2,11 +2,7 @@
 
 - name: Sara Mostafavi
   role: Principal Investigator
-  photo: "images/Sara_2024_v2.jpg"
-  
-- name: Alexander Sasse
-  role: Postdoctoral Fellow
-  photo: "/images/Alex2.png"  
+  photo: "images/Sara_2024_v2.jpg" 
 
 - name: Xinming Tu
   role: PhD Student at UW - CSE
