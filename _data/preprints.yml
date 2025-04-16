@@ -1,5 +1,15 @@
 ---
 - title: >
+    Deep genomic models of allele-specific measurements
+  author: >
+     <u>Xinming Tu</u>*, <u>Alexander Sasse</u>*,Kaitavjeet Chowdhary*,<u>Anna Spiro</u>, Liang Yang, Maria Chikina, Christophe Benoist,<b>Sara Mostafavi</b>.<I> bioRxiv</I>
+  image: ../images/DeepAllele.png
+  year: 2025
+  repo:
+    name: link
+    url: https://www.biorxiv.org/content/10.1101/2025.04.09.648060v1
+
+- title: >
     Investigating Data Size, Sequence Diversity, and Model Complexity in MPRA-based Sequence-to-Function Prediction
   author: >
      <u>Yilun Sheng</u>, <u>Xinming Tu</u>, <b>Sara Mostafavi</b>.<I> bioRxiv</I>
