@@ -1,5 +1,32 @@
 ---
 - title: >
+    A scalable approach to investigating sequence-to-expression prediction from personal genomes
+  author: >
+     <u>Anna Spiro</u>*, <u>Xinming Tu</u>*, <u>Yilun Sheng</u>, <u>Alexander Sasse</u>, Rezwan Hosseini, Maria Chikina, <b> Sara Mostafavi</b><sup>$</sup>.<I> bioRxiv</I>
+  image: ../images/sage.png <I> Nature Methods (In Press)</I>
+  year: 2026
+  repo:
+    name: link
+    url: https://www.biorxiv.org/content/10.1101/2025.02.21.639494v2
+- title: >
+    Deep genomic models of allele-specific measurements
+  author: >
+     <u>Xinming Tu</u>*, <u>Alexander Sasse</u>*,Kaitavjeet Chowdhary*,<u>Anna Spiro</u>, Liang Yang, Maria Chikina, Christophe Benoist,<b>Sara Mostafavi</b>.<I> bioRxiv</I>
+  image: ../images/DeepAllele.png <I> RECOMB (acceptance rate < 15%)</I>
+  year: 2026
+  repo:
+    name: link
+    url: https://www.biorxiv.org/content/10.1101/2025.04.09.648060v2
+- title: >
+    Refining the cis-regulatory grammar learned by sequence-to-activity models by increasing model resolution
+  author: >
+     <u>Nuria Chandra</u>, Yan Hu, Jason D. Buenrostro, <b>Sara Mostafavi</b><sup>$</sup>,Alexander Sasse<sup>$</sup>.<I> bioRxiv</I>
+  image: ../images/bpaitac.png <I> Bioinformatics Advances</I>
+  year: 2025
+  repo:
+    name: link
+    url: https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbag122/8667195?login=false
+- title: >
     Unlocking gene regulation with sequence-to-function models
   author: >
      <u>Alex Sasse</u>, Maria Chikina<sup>$</sup>, <b> Sara Mostafavi</b><sup>$</sup>.<I> Nature Methods (Comment)</I>
@@ -8,7 +35,6 @@
   repo:
     name: link
     url: https://www.nature.com/articles/s41592-024-02331-5
-
 - title: >
     Quick and effective approximation of in silico saturation mutagenesis experiments with first-order Taylor expansion
   author: >
