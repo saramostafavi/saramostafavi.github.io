@@ -3,7 +3,7 @@
     Benchguard: Who guards the benchmarks? automated auditing of llm agent benchmarks
   author: >
      <u>Xinming Tu</u>, <u>Tianze Wang</u>, Kexin Huang, Yuanhao Qu,<b>Sara Mostafavi</b>.<I> bioRxiv</I>
-  image: ../images/NONE
+  image: ../images/BenchGaurd.png
   year: 2026
   repo:
     name: link
