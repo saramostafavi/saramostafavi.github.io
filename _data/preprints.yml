@@ -1,5 +1,14 @@
 ---
 - title: >
+    A modality gap in personal-genome prediction by sequence-to-function models
+  author: >
+     <u>Xinming Tu</u>, <u>Anna Spiro</u>, Maria Chikina, <b>Sara Mostafavi</b>.<I> bioRxiv</I>
+  image: ../images/modality.png
+  year: 2026
+  repo:
+    name: link
+    url: https://www.biorxiv.org/content/10.64898/2026.02.01.702969v1
+- title: >
     Benchguard: Who guards the benchmarks? automated auditing of LLM agent benchmarks
   author: >
      <u>Xinming Tu</u>, <u>Tianze Wang</u>, Kexin Huang, Yuanhao Qu, <b>Sara Mostafavi</b>.<I> bioRxiv</I>
