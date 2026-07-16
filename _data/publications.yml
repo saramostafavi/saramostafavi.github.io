@@ -2,7 +2,7 @@
 - title: >
     Benchguard: Who guards the benchmarks? automated auditing of LLM agent benchmarks
   author: >
-     <u>Xinming Tu</u>, <u>Tianze Wang</u>, Kexin Huang, Yuanhao Qu, <b>Sara Mostafavi</b>.<I> Conference on Language Modeling (COLM) (</I>
+     <u>Xinming Tu</u>, <u>Tianze Wang</u>, Kexin Huang, Yuanhao Qu, <b>Sara Mostafavi</b>.<I> Conference on Language Modeling (COLM)</I>
   image: ../images/BenchGaurd.png
   year: 2026
   repo:
