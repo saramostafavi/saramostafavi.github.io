@@ -1,8 +1,17 @@
 ---
 - title: >
+    Benchguard: Who guards the benchmarks? automated auditing of LLM agent benchmarks
+  author: >
+     <u>Xinming Tu</u>, <u>Tianze Wang</u>, Kexin Huang, Yuanhao Qu, <b>Sara Mostafavi</b>.<I> Conference on Language Modeling (COLM) (</I>
+  image: ../images/BenchGaurd.png
+  year: 2026
+  repo:
+    name: link
+    url: https://arxiv.org/pdf/2604.24955
+- title: >
     A scalable approach to investigating sequence-to-expression prediction from personal genomes
   author: >
-     <u>Anna Spiro</u>*, <u>Xinming Tu</u>*, <u>Yilun Sheng</u>, <u>Alexander Sasse</u>, Rezwan Hosseini, Maria Chikina, <b> Sara Mostafavi</b><sup></sup>.<I> Nature Methods (In Press)</I>
+     <u>Anna Spiro</u>*, <u>Xinming Tu</u>*, <u>Yilun Sheng</u>, <u>Alexander Sasse</u>, Rezwan Hosseini, Maria Chikina, <b> Sara Mostafavi</b><sup></sup>.<I> Nature Methods</I>
   image: ../images/sage.png
   year: 2026
   repo:
@@ -68,7 +77,7 @@
 - title: >
     Cell sub-type specific effects of genetic variation in the aging and Alzheimer cortex
   author: >
-     Masashi Fujita, Zongmei Gao, Lu Zeng, ..., <b> Sara Mostafavi</b>, David Bennett, Vilas Menon, Philip De Jager.<I> Nature Genetics (Accepted)</I>
+     Masashi Fujita, Zongmei Gao, Lu Zeng, ..., <b> Sara Mostafavi</b>, David Bennett, Vilas Menon, Philip De Jager.<I> Nature Genetics</I>
   image: ../images/scROSMAP.png
   year: 2023
   repo:
